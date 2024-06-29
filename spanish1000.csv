@@ -1,0 +1,1007 @@
+Spanish word,English word,Spanish Sentence,English Sentence
+sí,yes,Esta es una frase con la palabra 'sí'.,This is a sentence with the word 'yes'.
+no,no,Esta es una frase con la palabra 'no'.,This is a sentence with the word 'no'.
+¿entiende(s)?,do you understand?,Esta es una frase con la palabra '¿entiende(s)?'.,This is a sentence with the word 'do you understand?'.
+no entiendo,i don’t understand,Esta es una frase con la palabra 'no entiendo'.,This is a sentence with the word 'i don’t understand'.
+no (lo) sé,i don’t know,Esta es una frase con la palabra 'no (lo) sé'.,This is a sentence with the word 'i don’t know'.
+no tengo ni idea,i have no idea,Esta es una frase con la palabra 'no tengo ni idea'.,This is a sentence with the word 'i have no idea'.
+no hablo español,i don’t speak spanish,Esta es una frase con la palabra 'no hablo español'.,This is a sentence with the word 'i don’t speak spanish'.
+estoy perdido(a),i’m lost,Esta es una frase con la palabra 'estoy perdido(a)'.,This is a sentence with the word 'i’m lost'.
+me llamo,my name is,Esta es una frase con la palabra 'me llamo'.,This is a sentence with the word 'my name is'.
+mi nombre es,my name is,Esta es una frase con la palabra 'mi nombre es'.,This is a sentence with the word 'my name is'.
+soy…,i’m…,Esta es una frase con la palabra 'soy…'.,This is a sentence with the word 'i’m…'.
+¿cómo te llamas?,what is your name?,Esta es una frase con la palabra '¿cómo te llamas?'.,This is a sentence with the word 'what is your name?'.
+(yo) soy de…,i am from…,Esta es una frase con la palabra '(yo) soy de…'.,This is a sentence with the word 'i am from…'.
+¿cómo está usted?,how are you? (formal),Esta es una frase con la palabra '¿cómo está usted?'.,This is a sentence with the word 'how are you? (formal)'.
+¿cómo estás?,how are you? (informal),Esta es una frase con la palabra '¿cómo estás?'.,This is a sentence with the word 'how are you? (informal)'.
+¿qué tal?,how are you? (informal) / what’s up?,Esta es una frase con la palabra '¿qué tal?'.,This is a sentence with the word 'how are you? (informal) / what’s up?'.
+¿cómo te va?,how ‘s it going?,Esta es una frase con la palabra '¿cómo te va?'.,This is a sentence with the word 'how ‘s it going?'.
+¿qué haces?,what are you doing?,Esta es una frase con la palabra '¿qué haces?'.,This is a sentence with the word 'what are you doing?'.
+¿qué pasa?,what ‘s happening?,Esta es una frase con la palabra '¿qué pasa?'.,This is a sentence with the word 'what ‘s happening?'.
+¿y tú?,and you?,Esta es una frase con la palabra '¿y tú?'.,This is a sentence with the word 'and you?'.
+muy bien,very well,Esta es una frase con la palabra 'muy bien'.,This is a sentence with the word 'very well'.
+"así, así","so, so","Esta es una frase con la palabra 'así, así'.","This is a sentence with the word 'so, so'."
+mal,bad,Esta es una frase con la palabra 'mal'.,This is a sentence with the word 'bad'.
+como siempre,as always,Esta es una frase con la palabra 'como siempre'.,This is a sentence with the word 'as always'.
+¡de nada!,you’re welcome! / no problem!,Esta es una frase con la palabra '¡de nada!'.,This is a sentence with the word 'you’re welcome! / no problem!'.
+por favor,please,Esta es una frase con la palabra 'por favor'.,This is a sentence with the word 'please'.
+¡perdon!,excuse me!,Esta es una frase con la palabra '¡perdon!'.,This is a sentence with the word 'excuse me!'.
+¡disculpe!,excuse me!,Esta es una frase con la palabra '¡disculpe!'.,This is a sentence with the word 'excuse me!'.
+¡lo siento!,sorry!,Esta es una frase con la palabra '¡lo siento!'.,This is a sentence with the word 'sorry!'.
+gracias,thank you,Esta es una frase con la palabra 'gracias'.,This is a sentence with the word 'thank you'.
+salud,bless you,Esta es una frase con la palabra 'salud'.,This is a sentence with the word 'bless you'.
+¿qué…?,what?,Esta es una frase con la palabra '¿qué…?'.,This is a sentence with the word 'what?'.
+¿quién…?,who?,Esta es una frase con la palabra '¿quién…?'.,This is a sentence with the word 'who?'.
+¿cuándo…?,when?,Esta es una frase con la palabra '¿cuándo…?'.,This is a sentence with the word 'when?'.
+¿dónde…?,where?,Esta es una frase con la palabra '¿dónde…?'.,This is a sentence with the word 'where?'.
+¿por qué…?,why?,Esta es una frase con la palabra '¿por qué…?'.,This is a sentence with the word 'why?'.
+¿cuál?,which?,Esta es una frase con la palabra '¿cuál?'.,This is a sentence with the word 'which?'.
+¿cómo…?,how?,Esta es una frase con la palabra '¿cómo…?'.,This is a sentence with the word 'how?'.
+Yo,I,Esta es una frase con la palabra 'Yo'.,This is a sentence with the word 'I'.
+tú (informal),you,Esta es una frase con la palabra 'tú (informal)'.,This is a sentence with the word 'you'.
+usted (formal),you,Esta es una frase con la palabra 'usted (formal)'.,This is a sentence with the word 'you'.
+él,he,Esta es una frase con la palabra 'él'.,This is a sentence with the word 'he'.
+ella,she,Esta es una frase con la palabra 'ella'.,This is a sentence with the word 'she'.
+nosotros/nosotras,we,Esta es una frase con la palabra 'nosotros/nosotras'.,This is a sentence with the word 'we'.
+ustedes,you all,Esta es una frase con la palabra 'ustedes'.,This is a sentence with the word 'you all'.
+ellos,they,Esta es una frase con la palabra 'ellos'.,This is a sentence with the word 'they'.
+ellas(females),they,Esta es una frase con la palabra 'ellas(females)'.,This is a sentence with the word 'they'.
+hola,hello,Esta es una frase con la palabra 'hola'.,This is a sentence with the word 'hello'.
+buenos días,good morning,Esta es una frase con la palabra 'buenos días'.,This is a sentence with the word 'good morning'.
+buenas tardes,good afternoon,Esta es una frase con la palabra 'buenas tardes'.,This is a sentence with the word 'good afternoon'.
+buenas noches,good evening / good night,Esta es una frase con la palabra 'buenas noches'.,This is a sentence with the word 'good evening / good night'.
+(yo) tengo … años,i am … years old.,Esta es una frase con la palabra '(yo) tengo … años'.,This is a sentence with the word 'i am … years old.'.
+old,viejo/a,Esta es una frase con la palabra 'old'.,This is a sentence with the word 'viejo/a'.
+young,joven,Esta es una frase con la palabra 'young'.,This is a sentence with the word 'joven'.
+middle-aged,de mediana edad,Esta es una frase con la palabra 'middle-aged'.,This is a sentence with the word 'de mediana edad'.
+youthful,juvenil,Esta es una frase con la palabra 'youthful'.,This is a sentence with the word 'juvenil'.
+nuevo/a – new,,Esta es una frase con la palabra 'nuevo/a – new'.,This is a sentence with the word 'nan'.
+¡feliz cumpleaños!,happy birthday!,Esta es una frase con la palabra '¡feliz cumpleaños!'.,This is a sentence with the word 'happy birthday!'.
+¡felicitaciones!,congratulations!,Esta es una frase con la palabra '¡felicitaciones!'.,This is a sentence with the word 'congratulations!'.
+¡diviértete!,have fun!,Esta es una frase con la palabra '¡diviértete!'.,This is a sentence with the word 'have fun!'.
+¡buen provecho!,bon appetit!,Esta es una frase con la palabra '¡buen provecho!'.,This is a sentence with the word 'bon appetit!'.
+¡bienvenidos! / ¡bienvenidas!,welcome!,Esta es una frase con la palabra '¡bienvenidos! / ¡bienvenidas!'.,This is a sentence with the word 'welcome!'.
+salud!,cheers!,Esta es una frase con la palabra 'salud!'.,This is a sentence with the word 'cheers!'.
+adiós,goodbye,Esta es una frase con la palabra 'adiós'.,This is a sentence with the word 'goodbye'.
+chao,goodbye,Esta es una frase con la palabra 'chao'.,This is a sentence with the word 'goodbye'.
+hasta luego,see you later (most likely today),Esta es una frase con la palabra 'hasta luego'.,This is a sentence with the word 'see you later (most likely today)'.
+hasta mañana,see you tomorrow,Esta es una frase con la palabra 'hasta mañana'.,This is a sentence with the word 'see you tomorrow'.
+nos vemos,see you (informal),Esta es una frase con la palabra 'nos vemos'.,This is a sentence with the word 'see you (informal)'.
+¡cuídate mucho!,take care!,Esta es una frase con la palabra '¡cuídate mucho!'.,This is a sentence with the word 'take care!'.
+¡tenga un buen día!,have a nice day!,Esta es una frase con la palabra '¡tenga un buen día!'.,This is a sentence with the word 'have a nice day!'.
+¡hasta luego!,see you soon!,Esta es una frase con la palabra '¡hasta luego!'.,This is a sentence with the word 'see you soon!'.
+¡buen viaje!,have a good trip!,Esta es una frase con la palabra '¡buen viaje!'.,This is a sentence with the word 'have a good trip!'.
+Domingo,Sunday,Esta es una frase con la palabra 'Domingo'.,This is a sentence with the word 'Sunday'.
+Lunes,Monday,Esta es una frase con la palabra 'Lunes'.,This is a sentence with the word 'Monday'.
+Martes,Tuesday,Esta es una frase con la palabra 'Martes'.,This is a sentence with the word 'Tuesday'.
+Miércoles,Wednesday,Esta es una frase con la palabra 'Miércoles'.,This is a sentence with the word 'Wednesday'.
+Jueves,Thursday,Esta es una frase con la palabra 'Jueves'.,This is a sentence with the word 'Thursday'.
+Viernes,Friday,Esta es una frase con la palabra 'Viernes'.,This is a sentence with the word 'Friday'.
+Sabado,Saturday,Esta es una frase con la palabra 'Sabado'.,This is a sentence with the word 'Saturday'.
+Enero,January,Esta es una frase con la palabra 'Enero'.,This is a sentence with the word 'January'.
+Febrero,February,Esta es una frase con la palabra 'Febrero'.,This is a sentence with the word 'February'.
+Marzo,March,Esta es una frase con la palabra 'Marzo'.,This is a sentence with the word 'March'.
+Abril,April,Esta es una frase con la palabra 'Abril'.,This is a sentence with the word 'April'.
+Mayo,May,Esta es una frase con la palabra 'Mayo'.,This is a sentence with the word 'May'.
+Junio,June,Esta es una frase con la palabra 'Junio'.,This is a sentence with the word 'June'.
+Julio,July,Esta es una frase con la palabra 'Julio'.,This is a sentence with the word 'July'.
+Agosto,August,Esta es una frase con la palabra 'Agosto'.,This is a sentence with the word 'August'.
+Septiembre,September,Esta es una frase con la palabra 'Septiembre'.,This is a sentence with the word 'September'.
+Octubre,October,Esta es una frase con la palabra 'Octubre'.,This is a sentence with the word 'October'.
+Noviembre,November,Esta es una frase con la palabra 'Noviembre'.,This is a sentence with the word 'November'.
+Diciembre,December,Esta es una frase con la palabra 'Diciembre'.,This is a sentence with the word 'December'.
+anteayer,day before yesterday,Esta es una frase con la palabra 'anteayer'.,This is a sentence with the word 'day before yesterday'.
+ayer,yesterday,Esta es una frase con la palabra 'ayer'.,This is a sentence with the word 'yesterday'.
+el año,year,Esta es una frase con la palabra 'el año'.,This is a sentence with the word 'year'.
+el día,day,Esta es una frase con la palabra 'el día'.,This is a sentence with the word 'day'.
+el mes,month,Esta es una frase con la palabra 'el mes'.,This is a sentence with the word 'month'.
+el siglo,century,Esta es una frase con la palabra 'el siglo'.,This is a sentence with the word 'century'.
+la hora,hour,Esta es una frase con la palabra 'la hora'.,This is a sentence with the word 'hour'.
+hoy,today,Esta es una frase con la palabra 'hoy'.,This is a sentence with the word 'today'.
+la semana,week,Esta es una frase con la palabra 'la semana'.,This is a sentence with the word 'week'.
+madrugada,"dawn, very early in the morning",Esta es una frase con la palabra 'madrugada'.,"This is a sentence with the word 'dawn, very early in the morning'."
+mañana,tomorrow,Esta es una frase con la palabra 'mañana'.,This is a sentence with the word 'tomorrow'.
+mañana,morning,Esta es una frase con la palabra 'mañana'.,This is a sentence with the word 'morning'.
+medianoche,midnight,Esta es una frase con la palabra 'medianoche'.,This is a sentence with the word 'midnight'.
+mediodia,noon,Esta es una frase con la palabra 'mediodia'.,This is a sentence with the word 'noon'.
+el minuto,minute,Esta es una frase con la palabra 'el minuto'.,This is a sentence with the word 'minute'.
+la noche,night,Esta es una frase con la palabra 'la noche'.,This is a sentence with the word 'night'.
+el pasado mañana,day after tomorrow,Esta es una frase con la palabra 'el pasado mañana'.,This is a sentence with the word 'day after tomorrow'.
+los segundos,seconds,Esta es una frase con la palabra 'los segundos'.,This is a sentence with the word 'seconds'.
+la tarde,afternoon,Esta es una frase con la palabra 'la tarde'.,This is a sentence with the word 'afternoon'.
+This Spanish vocab helps you talk about your relatives.,,Esta es una frase con la palabra 'This Spanish vocab helps you talk about your relatives.'.,This is a sentence with the word 'nan'.
+el padre,father,Esta es una frase con la palabra 'el padre'.,This is a sentence with the word 'father'.
+el papá,dad,Esta es una frase con la palabra 'el papá'.,This is a sentence with the word 'dad'.
+la madre,mother,Esta es una frase con la palabra 'la madre'.,This is a sentence with the word 'mother'.
+la mamá,mom,Esta es una frase con la palabra 'la mamá'.,This is a sentence with the word 'mom'.
+el hermano,brother,Esta es una frase con la palabra 'el hermano'.,This is a sentence with the word 'brother'.
+la hermana,sister,Esta es una frase con la palabra 'la hermana'.,This is a sentence with the word 'sister'.
+el hijo,son,Esta es una frase con la palabra 'el hijo'.,This is a sentence with the word 'son'.
+la hija,daughter,Esta es una frase con la palabra 'la hija'.,This is a sentence with the word 'daughter'.
+la familia cercana,close family,Esta es una frase con la palabra 'la familia cercana'.,This is a sentence with the word 'close family'.
+el abuelo,grandfather,Esta es una frase con la palabra 'el abuelo'.,This is a sentence with the word 'grandfather'.
+la abuela,grandmother,Esta es una frase con la palabra 'la abuela'.,This is a sentence with the word 'grandmother'.
+el bisabuelo,great-grandfather,Esta es una frase con la palabra 'el bisabuelo'.,This is a sentence with the word 'great-grandfather'.
+la bisabuela,great-grandmother,Esta es una frase con la palabra 'la bisabuela'.,This is a sentence with the word 'great-grandmother'.
+la nieta,granddaughter,Esta es una frase con la palabra 'la nieta'.,This is a sentence with the word 'granddaughter'.
+el nieto,grandson,Esta es una frase con la palabra 'el nieto'.,This is a sentence with the word 'grandson'.
+el tío,uncle,Esta es una frase con la palabra 'el tío'.,This is a sentence with the word 'uncle'.
+la tía,aunt,Esta es una frase con la palabra 'la tía'.,This is a sentence with the word 'aunt'.
+el tío abuelo,great-uncle,Esta es una frase con la palabra 'el tío abuelo'.,This is a sentence with the word 'great-uncle'.
+la tía abuela,great-aunt,Esta es una frase con la palabra 'la tía abuela'.,This is a sentence with the word 'great-aunt'.
+el primo,cousin (male),Esta es una frase con la palabra 'el primo'.,This is a sentence with the word 'cousin (male)'.
+la prima,cousin (female),Esta es una frase con la palabra 'la prima'.,This is a sentence with the word 'cousin (female)'.
+mis parientes,my relatives,Esta es una frase con la palabra 'mis parientes'.,This is a sentence with the word 'my relatives'.
+abrazar,to hug,Esta es una frase con la palabra 'abrazar'.,This is a sentence with the word 'to hug'.
+amar,to love,Esta es una frase con la palabra 'amar'.,This is a sentence with the word 'to love'.
+reír,to laugh,Esta es una frase con la palabra 'reír'.,This is a sentence with the word 'to laugh'.
+perdonar,to forgive,Esta es una frase con la palabra 'perdonar'.,This is a sentence with the word 'to forgive'.
+empezar,to start,Esta es una frase con la palabra 'empezar'.,This is a sentence with the word 'to start'.
+seguir,to follow,Esta es una frase con la palabra 'seguir'.,This is a sentence with the word 'to follow'.
+abrir,to open,Esta es una frase con la palabra 'abrir'.,This is a sentence with the word 'to open'.
+buscar,to search,Esta es una frase con la palabra 'buscar'.,This is a sentence with the word 'to search'.
+cantar,to sing,Esta es una frase con la palabra 'cantar'.,This is a sentence with the word 'to sing'.
+cerrar,to close,Esta es una frase con la palabra 'cerrar'.,This is a sentence with the word 'to close'.
+destruir,to destroy,Esta es una frase con la palabra 'destruir'.,This is a sentence with the word 'to destroy'.
+dormir,to sleep,Esta es una frase con la palabra 'dormir'.,This is a sentence with the word 'to sleep'.
+encontrar,to find,Esta es una frase con la palabra 'encontrar'.,This is a sentence with the word 'to find'.
+esconder,to hide,Esta es una frase con la palabra 'esconder'.,This is a sentence with the word 'to hide'.
+esperar,to wait,Esta es una frase con la palabra 'esperar'.,This is a sentence with the word 'to wait'.
+faltar,to miss,Esta es una frase con la palabra 'faltar'.,This is a sentence with the word 'to miss'.
+hacer,to do,Esta es una frase con la palabra 'hacer'.,This is a sentence with the word 'to do'.
+intentar,to try,Esta es una frase con la palabra 'intentar'.,This is a sentence with the word 'to try'.
+llamar,to call,Esta es una frase con la palabra 'llamar'.,This is a sentence with the word 'to call'.
+llevar,to take,Esta es una frase con la palabra 'llevar'.,This is a sentence with the word 'to take'.
+llorar,to cry,Esta es una frase con la palabra 'llorar'.,This is a sentence with the word 'to cry'.
+luchar,to fight,Esta es una frase con la palabra 'luchar'.,This is a sentence with the word 'to fight'.
+mentir,to lie,Esta es una frase con la palabra 'mentir'.,This is a sentence with the word 'to lie'.
+odiar,to hate,Esta es una frase con la palabra 'odiar'.,This is a sentence with the word 'to hate'.
+recibir,to receive,Esta es una frase con la palabra 'recibir'.,This is a sentence with the word 'to receive'.
+reconocer,to recognize,Esta es una frase con la palabra 'reconocer'.,This is a sentence with the word 'to recognize'.
+robar,to steal,Esta es una frase con la palabra 'robar'.,This is a sentence with the word 'to steal'.
+salvar,to save,Esta es una frase con la palabra 'salvar'.,This is a sentence with the word 'to save'.
+sonreír,to smile,Esta es una frase con la palabra 'sonreír'.,This is a sentence with the word 'to smile'.
+soñar,to dream,Esta es una frase con la palabra 'soñar'.,This is a sentence with the word 'to dream'.
+tomar,to take,Esta es una frase con la palabra 'tomar'.,This is a sentence with the word 'to take'.
+Vivir,to live,Esta es una frase con la palabra 'Vivir'.,This is a sentence with the word 'to live'.
+Spice up your Spanish with these common words for your senses.,,Esta es una frase con la palabra 'Spice up your Spanish with these common words for your senses.'.,This is a sentence with the word 'nan'.
+tranquilo/a – quiet,,Esta es una frase con la palabra 'tranquilo/a – quiet'.,This is a sentence with the word 'nan'.
+ruidoso/a – loud,,Esta es una frase con la palabra 'ruidoso/a – loud'.,This is a sentence with the word 'nan'.
+gritar,to shout,Esta es una frase con la palabra 'gritar'.,This is a sentence with the word 'to shout'.
+escuchar,to hear,Esta es una frase con la palabra 'escuchar'.,This is a sentence with the word 'to hear'.
+silencio,silence,Esta es una frase con la palabra 'silencio'.,This is a sentence with the word 'silence'.
+alto,loud,Esta es una frase con la palabra 'alto'.,This is a sentence with the word 'loud'.
+bajo,soft,Esta es una frase con la palabra 'bajo'.,This is a sentence with the word 'soft'.
+ensordecedor,deafening,Esta es una frase con la palabra 'ensordecedor'.,This is a sentence with the word 'deafening'.
+agudo,"sharp, high-pitched",Esta es una frase con la palabra 'agudo'.,"This is a sentence with the word 'sharp, high-pitched'."
+grave,low-pitched,Esta es una frase con la palabra 'grave'.,This is a sentence with the word 'low-pitched'.
+melodioso,melodious,Esta es una frase con la palabra 'melodioso'.,This is a sentence with the word 'melodious'.
+armónico,harmonic,Esta es una frase con la palabra 'armónico'.,This is a sentence with the word 'harmonic'.
+zumbido,buzz,Esta es una frase con la palabra 'zumbido'.,This is a sentence with the word 'buzz'.
+sordo,deaf,Esta es una frase con la palabra 'sordo'.,This is a sentence with the word 'deaf'.
+duro de oíd,hard of hearing,Esta es una frase con la palabra 'duro de oíd'.,This is a sentence with the word 'hard of hearing'.
+oído fino,acute hearing,Esta es una frase con la palabra 'oído fino'.,This is a sentence with the word 'acute hearing'.
+problemas de audición,hearing-impaired,Esta es una frase con la palabra 'problemas de audición'.,This is a sentence with the word 'hearing-impaired'.
+fuera de alcance,out of earshot,Esta es una frase con la palabra 'fuera de alcance'.,This is a sentence with the word 'out of earshot'.
+ver,to see,Esta es una frase con la palabra 'ver'.,This is a sentence with the word 'to see'.
+mirar,to look,Esta es una frase con la palabra 'mirar'.,This is a sentence with the word 'to look'.
+de colores,colorful,Esta es una frase con la palabra 'de colores'.,This is a sentence with the word 'colorful'.
+blanco y negro,black and white,Esta es una frase con la palabra 'blanco y negro'.,This is a sentence with the word 'black and white'.
+brillante,bright,Esta es una frase con la palabra 'brillante'.,This is a sentence with the word 'bright'.
+apagado,dim,Esta es una frase con la palabra 'apagado'.,This is a sentence with the word 'dim'.
+claro,light,Esta es una frase con la palabra 'claro'.,This is a sentence with the word 'light'.
+oscuro,dark,Esta es una frase con la palabra 'oscuro'.,This is a sentence with the word 'dark'.
+ciego,blind,Esta es una frase con la palabra 'ciego'.,This is a sentence with the word 'blind'.
+mirar fijamente,to stare,Esta es una frase con la palabra 'mirar fijamente'.,This is a sentence with the word 'to stare'.
+echar un vistazo,to glance,Esta es una frase con la palabra 'echar un vistazo'.,This is a sentence with the word 'to glance'.
+bizquear,to squint,Esta es una frase con la palabra 'bizquear'.,This is a sentence with the word 'to squint'.
+guiñar,to wink,Esta es una frase con la palabra 'guiñar'.,This is a sentence with the word 'to wink'.
+parpadear,to blink,Esta es una frase con la palabra 'parpadear'.,This is a sentence with the word 'to blink'.
+tocar,to touch,Esta es una frase con la palabra 'tocar'.,This is a sentence with the word 'to touch'.
+agarrar,to grab,Esta es una frase con la palabra 'agarrar'.,This is a sentence with the word 'to grab'.
+suave,soft,Esta es una frase con la palabra 'suave'.,This is a sentence with the word 'soft'.
+áspero(a),rough,Esta es una frase con la palabra 'áspero(a)'.,This is a sentence with the word 'rough'.
+liso(a),smooth,Esta es una frase con la palabra 'liso(a)'.,This is a sentence with the word 'smooth'.
+rugoso(a),wrinkled,Esta es una frase con la palabra 'rugoso(a)'.,This is a sentence with the word 'wrinkled'.
+pegajoso(a),sticky,Esta es una frase con la palabra 'pegajoso(a)'.,This is a sentence with the word 'sticky'.
+punzante,sharp,Esta es una frase con la palabra 'punzante'.,This is a sentence with the word 'sharp'.
+sedoso(a),silky,Esta es una frase con la palabra 'sedoso(a)'.,This is a sentence with the word 'silky'.
+esponjoso(a),spongy,Esta es una frase con la palabra 'esponjoso(a)'.,This is a sentence with the word 'spongy'.
+mullido(a),fluffy,Esta es una frase con la palabra 'mullido(a)'.,This is a sentence with the word 'fluffy'.
+hormigueo,tingle,Esta es una frase con la palabra 'hormigueo'.,This is a sentence with the word 'tingle'.
+entumecido(a),numb,Esta es una frase con la palabra 'entumecido(a)'.,This is a sentence with the word 'numb'.
+rozar,to touch gently,Esta es una frase con la palabra 'rozar'.,This is a sentence with the word 'to touch gently'.
+acariciar,to caress,Esta es una frase con la palabra 'acariciar'.,This is a sentence with the word 'to caress'.
+agarrar,to grab,Esta es una frase con la palabra 'agarrar'.,This is a sentence with the word 'to grab'.
+olor,smell,Esta es una frase con la palabra 'olor'.,This is a sentence with the word 'smell'.
+el perfume,scent,Esta es una frase con la palabra 'el perfume'.,This is a sentence with the word 'scent'.
+la fragancia,fragrance,Esta es una frase con la palabra 'la fragancia'.,This is a sentence with the word 'fragrance'.
+el hedor,stench,Esta es una frase con la palabra 'el hedor'.,This is a sentence with the word 'stench'.
+apestoso(a),smelly,Esta es una frase con la palabra 'apestoso(a)'.,This is a sentence with the word 'smelly'.
+fresco(a),fresh,Esta es una frase con la palabra 'fresco(a)'.,This is a sentence with the word 'fresh'.
+acre,pungent,Esta es una frase con la palabra 'acre'.,This is a sentence with the word 'pungent'.
+húmedo(a),musty,Esta es una frase con la palabra 'húmedo(a)'.,This is a sentence with the word 'musty'.
+podrido(a),rotten,Esta es una frase con la palabra 'podrido(a)'.,This is a sentence with the word 'rotten'.
+ahumado(a),smoky,Esta es una frase con la palabra 'ahumado(a)'.,This is a sentence with the word 'smoky'.
+apestar,to stink,Esta es una frase con la palabra 'apestar'.,This is a sentence with the word 'to stink'.
+gusto,- taste,Esta es una frase con la palabra 'gusto'.,This is a sentence with the word '- taste'.
+sabor,flavor,Esta es una frase con la palabra 'sabor'.,This is a sentence with the word 'flavor'.
+probar,try,Esta es una frase con la palabra 'probar'.,This is a sentence with the word 'try'.
+sabroso,está sabrosa,Esta es una frase con la palabra 'sabroso'.,This is a sentence with the word 'está sabrosa'.
+delicioso,delicious,Esta es una frase con la palabra 'delicioso'.,This is a sentence with the word 'delicious'.
+perfecto,perfect,Esta es una frase con la palabra 'perfecto'.,This is a sentence with the word 'perfect'.
+apetitoso,appetizing,Esta es una frase con la palabra 'apetitoso'.,This is a sentence with the word 'appetizing'.
+dulce,sweet,Esta es una frase con la palabra 'dulce'.,This is a sentence with the word 'sweet'.
+dulzón,sugary,Esta es una frase con la palabra 'dulzón'.,This is a sentence with the word 'sugary'.
+soso,bland,Esta es una frase con la palabra 'soso'.,This is a sentence with the word 'bland'.
+abierto/a – open,,Esta es una frase con la palabra 'abierto/a – open'.,This is a sentence with the word 'nan'.
+ancho/a – wide,,Esta es una frase con la palabra 'ancho/a – wide'.,This is a sentence with the word 'nan'.
+estrecho/a – narrow,,Esta es una frase con la palabra 'estrecho/a – narrow'.,This is a sentence with the word 'nan'.
+lejano/a – far,,Esta es una frase con la palabra 'lejano/a – far'.,This is a sentence with the word 'nan'.
+cercano/a – close,,Esta es una frase con la palabra 'cercano/a – close'.,This is a sentence with the word 'nan'.
+alegre – joyful,,Esta es una frase con la palabra 'alegre – joyful'.,This is a sentence with the word 'nan'.
+"gracioso/a – funny, amusing",,"Esta es una frase con la palabra 'gracioso/a – funny, amusing'.",This is a sentence with the word 'nan'.
+serio/a – serious,,Esta es una frase con la palabra 'serio/a – serious'.,This is a sentence with the word 'nan'.
+tímido/a – shy,,Esta es una frase con la palabra 'tímido/a – shy'.,This is a sentence with the word 'nan'.
+valiente – brave,,Esta es una frase con la palabra 'valiente – brave'.,This is a sentence with the word 'nan'.
+loco/a – crazy,,Esta es una frase con la palabra 'loco/a – crazy'.,This is a sentence with the word 'nan'.
+contento(a),content,Esta es una frase con la palabra 'contento(a)'.,This is a sentence with the word 'content'.
+feliz,happy,Esta es una frase con la palabra 'feliz'.,This is a sentence with the word 'happy'.
+preocupado(a),worried,Esta es una frase con la palabra 'preocupado(a)'.,This is a sentence with the word 'worried'.
+nervioso(a),nervous,Esta es una frase con la palabra 'nervioso(a)'.,This is a sentence with the word 'nervous'.
+tranquilo(a),tranquil,Esta es una frase con la palabra 'tranquilo(a)'.,This is a sentence with the word 'tranquil'.
+calmado(a),calm,Esta es una frase con la palabra 'calmado(a)'.,This is a sentence with the word 'calm'.
+emocionado(a),excited,Esta es una frase con la palabra 'emocionado(a)'.,This is a sentence with the word 'excited'.
+largo/a,long,Esta es una frase con la palabra 'largo/a'.,This is a sentence with the word 'long'.
+corto/a,short,Esta es una frase con la palabra 'corto/a'.,This is a sentence with the word 'short'.
+liso/a,straight,Esta es una frase con la palabra 'liso/a'.,This is a sentence with the word 'straight'.
+rizado/a,curly,Esta es una frase con la palabra 'rizado/a'.,This is a sentence with the word 'curly'.
+ondulado/a,wavy,Esta es una frase con la palabra 'ondulado/a'.,This is a sentence with the word 'wavy'.
+castaño/a,brown,Esta es una frase con la palabra 'castaño/a'.,This is a sentence with the word 'brown'.
+rubio/a,blonde,Esta es una frase con la palabra 'rubio/a'.,This is a sentence with the word 'blonde'.
+pelirrojo/a,red,Esta es una frase con la palabra 'pelirrojo/a'.,This is a sentence with the word 'red'.
+negro/a,black,Esta es una frase con la palabra 'negro/a'.,This is a sentence with the word 'black'.
+canoso/a,grey,Esta es una frase con la palabra 'canoso/a'.,This is a sentence with the word 'grey'.
+abundante,thick,Esta es una frase con la palabra 'abundante'.,This is a sentence with the word 'thick'.
+fino/a,thin,Esta es una frase con la palabra 'fino/a'.,This is a sentence with the word 'thin'.
+escalado/a,layered,Esta es una frase con la palabra 'escalado/a'.,This is a sentence with the word 'layered'.
+teñido/a,dyed,Esta es una frase con la palabra 'teñido/a'.,This is a sentence with the word 'dyed'.
+saludable,healthy,Esta es una frase con la palabra 'saludable'.,This is a sentence with the word 'healthy'.
+claro/a,light,Esta es una frase con la palabra 'claro/a'.,This is a sentence with the word 'light'.
+encrespado/a,frizzy,Esta es una frase con la palabra 'encrespado/a'.,This is a sentence with the word 'frizzy'.
+brillante,shiny,Esta es una frase con la palabra 'brillante'.,This is a sentence with the word 'shiny'.
+calvo/a,bald,Esta es una frase con la palabra 'calvo/a'.,This is a sentence with the word 'bald'.
+grande – big,,Esta es una frase con la palabra 'grande – big'.,This is a sentence with the word 'nan'.
+pequeño/a – small,,Esta es una frase con la palabra 'pequeño/a – small'.,This is a sentence with the word 'nan'.
+enorme – huge,,Esta es una frase con la palabra 'enorme – huge'.,This is a sentence with the word 'nan'.
+delgado/a,lean,Esta es una frase con la palabra 'delgado/a'.,This is a sentence with the word 'lean'.
+esbelto/a,slender,Esta es una frase con la palabra 'esbelto/a'.,This is a sentence with the word 'slender'.
+flaco/a,skinny,Esta es una frase con la palabra 'flaco/a'.,This is a sentence with the word 'skinny'.
+menudo/a,petite,Esta es una frase con la palabra 'menudo/a'.,This is a sentence with the word 'petite'.
+alto/a,tall,Esta es una frase con la palabra 'alto/a'.,This is a sentence with the word 'tall'.
+bajo/a,short,Esta es una frase con la palabra 'bajo/a'.,This is a sentence with the word 'short'.
+hermoso/a,beautiful,Esta es una frase con la palabra 'hermoso/a'.,This is a sentence with the word 'beautiful'.
+guapo/a,handsome,Esta es una frase con la palabra 'guapo/a'.,This is a sentence with the word 'handsome'.
+feo/a,ugly,Esta es una frase con la palabra 'feo/a'.,This is a sentence with the word 'ugly'.
+adorable,cute,Esta es una frase con la palabra 'adorable'.,This is a sentence with the word 'cute'.
+bonita,pretty,Esta es una frase con la palabra 'bonita'.,This is a sentence with the word 'pretty'.
+impresionante,stunning,Esta es una frase con la palabra 'impresionante'.,This is a sentence with the word 'stunning'.
+poco atractivo/a,plain,Esta es una frase con la palabra 'poco atractivo/a'.,This is a sentence with the word 'plain'.
+promedio/a,average,Esta es una frase con la palabra 'promedio/a'.,This is a sentence with the word 'average'.
+atractivo/a,attractive,Esta es una frase con la palabra 'atractivo/a'.,This is a sentence with the word 'attractive'.
+negro,black,Esta es una frase con la palabra 'negro'.,This is a sentence with the word 'black'.
+marrón / café,brown,Esta es una frase con la palabra 'marrón / café'.,This is a sentence with the word 'brown'.
+gris,grey,Esta es una frase con la palabra 'gris'.,This is a sentence with the word 'grey'.
+blanco,white,Esta es una frase con la palabra 'blanco'.,This is a sentence with the word 'white'.
+amarillo,yellow,Esta es una frase con la palabra 'amarillo'.,This is a sentence with the word 'yellow'.
+anaranjado,orange,Esta es una frase con la palabra 'anaranjado'.,This is a sentence with the word 'orange'.
+rojo,red,Esta es una frase con la palabra 'rojo'.,This is a sentence with the word 'red'.
+rosado,pink,Esta es una frase con la palabra 'rosado'.,This is a sentence with the word 'pink'.
+morado / púrpura,purple,Esta es una frase con la palabra 'morado / púrpura'.,This is a sentence with the word 'purple'.
+azul,blue,Esta es una frase con la palabra 'azul'.,This is a sentence with the word 'blue'.
+verde,green,Esta es una frase con la palabra 'verde'.,This is a sentence with the word 'green'.
+colorear,to color,Esta es una frase con la palabra 'colorear'.,This is a sentence with the word 'to color'.
+construir,to construct,Esta es una frase con la palabra 'construir'.,This is a sentence with the word 'to construct'.
+cortar,to cut,Esta es una frase con la palabra 'cortar'.,This is a sentence with the word 'to cut'.
+coser,to sew,Esta es una frase con la palabra 'coser'.,This is a sentence with the word 'to sew'.
+dibujar,to draw,Esta es una frase con la palabra 'dibujar'.,This is a sentence with the word 'to draw'.
+pintar,to paint,Esta es una frase con la palabra 'pintar'.,This is a sentence with the word 'to paint'.
+cero,zero,Esta es una frase con la palabra 'cero'.,This is a sentence with the word 'zero'.
+uno,one,Esta es una frase con la palabra 'uno'.,This is a sentence with the word 'one'.
+dos,two,Esta es una frase con la palabra 'dos'.,This is a sentence with the word 'two'.
+tres,three,Esta es una frase con la palabra 'tres'.,This is a sentence with the word 'three'.
+cuatro,four,Esta es una frase con la palabra 'cuatro'.,This is a sentence with the word 'four'.
+cinco,five,Esta es una frase con la palabra 'cinco'.,This is a sentence with the word 'five'.
+seis,six,Esta es una frase con la palabra 'seis'.,This is a sentence with the word 'six'.
+siete,seven,Esta es una frase con la palabra 'siete'.,This is a sentence with the word 'seven'.
+ocho,eight,Esta es una frase con la palabra 'ocho'.,This is a sentence with the word 'eight'.
+nueve,nine,Esta es una frase con la palabra 'nueve'.,This is a sentence with the word 'nine'.
+diez,ten,Esta es una frase con la palabra 'diez'.,This is a sentence with the word 'ten'.
+This animal vocab will help you talk about animals both on land and in the ocean!,,Esta es una frase con la palabra 'This animal vocab will help you talk about animals both on land and in the ocean!'.,This is a sentence with the word 'nan'.
+el gato,cat,Esta es una frase con la palabra 'el gato'.,This is a sentence with the word 'cat'.
+el perro,dog,Esta es una frase con la palabra 'el perro'.,This is a sentence with the word 'dog'.
+el conejo,rabbit,Esta es una frase con la palabra 'el conejo'.,This is a sentence with the word 'rabbit'.
+el pollo,chicken,Esta es una frase con la palabra 'el pollo'.,This is a sentence with the word 'chicken'.
+la gallina,hen,Esta es una frase con la palabra 'la gallina'.,This is a sentence with the word 'hen'.
+el gallo,rooster,Esta es una frase con la palabra 'el gallo'.,This is a sentence with the word 'rooster'.
+la vaca,cow,Esta es una frase con la palabra 'la vaca'.,This is a sentence with the word 'cow'.
+el toro,bull,Esta es una frase con la palabra 'el toro'.,This is a sentence with the word 'bull'.
+la oveja,sheep,Esta es una frase con la palabra 'la oveja'.,This is a sentence with the word 'sheep'.
+el caballo,horse,Esta es una frase con la palabra 'el caballo'.,This is a sentence with the word 'horse'.
+el cerdo,pig,Esta es una frase con la palabra 'el cerdo'.,This is a sentence with the word 'pig'.
+la cabra,goat,Esta es una frase con la palabra 'la cabra'.,This is a sentence with the word 'goat'.
+el burro,donkey,Esta es una frase con la palabra 'el burro'.,This is a sentence with the word 'donkey'.
+el ratón,mouse,Esta es una frase con la palabra 'el ratón'.,This is a sentence with the word 'mouse'.
+el ciervo,deer,Esta es una frase con la palabra 'el ciervo'.,This is a sentence with the word 'deer'.
+el mapache,raccoon,Esta es una frase con la palabra 'el mapache'.,This is a sentence with the word 'raccoon'.
+la ardilla -,squirrel,Esta es una frase con la palabra 'la ardilla -'.,This is a sentence with the word 'squirrel'.
+el búho,owl,Esta es una frase con la palabra 'el búho'.,This is a sentence with the word 'owl'.
+el zorro,fox,Esta es una frase con la palabra 'el zorro'.,This is a sentence with the word 'fox'.
+el lobo,wolf,Esta es una frase con la palabra 'el lobo'.,This is a sentence with the word 'wolf'.
+el oso,bear,Esta es una frase con la palabra 'el oso'.,This is a sentence with the word 'bear'.
+el cangrejo,crab,Esta es una frase con la palabra 'el cangrejo'.,This is a sentence with the word 'crab'.
+la medusa,jellyfish,Esta es una frase con la palabra 'la medusa'.,This is a sentence with the word 'jellyfish'.
+el delfín,dolphin,Esta es una frase con la palabra 'el delfín'.,This is a sentence with the word 'dolphin'.
+la ballena,whale,Esta es una frase con la palabra 'la ballena'.,This is a sentence with the word 'whale'.
+el tiburón,shark,Esta es una frase con la palabra 'el tiburón'.,This is a sentence with the word 'shark'.
+la foca,seal,Esta es una frase con la palabra 'la foca'.,This is a sentence with the word 'seal'.
+el lobo marino,sea lion,Esta es una frase con la palabra 'el lobo marino'.,This is a sentence with the word 'sea lion'.
+la morsa,walrus,Esta es una frase con la palabra 'la morsa'.,This is a sentence with the word 'walrus'.
+el pingüino,penguin,Esta es una frase con la palabra 'el pingüino'.,This is a sentence with the word 'penguin'.
+el viaje,trip,Esta es una frase con la palabra 'el viaje'.,This is a sentence with the word 'trip'.
+el equipaje,bags,Esta es una frase con la palabra 'el equipaje'.,This is a sentence with the word 'bags'.
+la salida,exit,Esta es una frase con la palabra 'la salida'.,This is a sentence with the word 'exit'.
+la llegada,arrival,Esta es una frase con la palabra 'la llegada'.,This is a sentence with the word 'arrival'.
+los documentos de identidad,id papers,Esta es una frase con la palabra 'los documentos de identidad'.,This is a sentence with the word 'id papers'.
+el billete de avión,boarding pass,Esta es una frase con la palabra 'el billete de avión'.,This is a sentence with the word 'boarding pass'.
+el hotel,hotel,Esta es una frase con la palabra 'el hotel'.,This is a sentence with the word 'hotel'.
+el permiso de conducir,driver’s license,Esta es una frase con la palabra 'el permiso de conducir'.,This is a sentence with the word 'driver’s license'.
+echar gasolina,to get gas,Esta es una frase con la palabra 'echar gasolina'.,This is a sentence with the word 'to get gas'.
+viajar,to travel,Esta es una frase con la palabra 'viajar'.,This is a sentence with the word 'to travel'.
+volver,to return,Esta es una frase con la palabra 'volver'.,This is a sentence with the word 'to return'.
+ir,to go,Esta es una frase con la palabra 'ir'.,This is a sentence with the word 'to go'.
+salir,to leave,Esta es una frase con la palabra 'salir'.,This is a sentence with the word 'to leave'.
+parar,to stop,Esta es una frase con la palabra 'parar'.,This is a sentence with the word 'to stop'.
+partir,to depart,Esta es una frase con la palabra 'partir'.,This is a sentence with the word 'to depart'.
+porter(a),doorman,Esta es una frase con la palabra 'porter(a)'.,This is a sentence with the word 'doorman'.
+hostia,hostess,Esta es una frase con la palabra 'hostia'.,This is a sentence with the word 'hostess'.
+botones,bellhop,Esta es una frase con la palabra 'botones'.,This is a sentence with the word 'bellhop'.
+anfitriona,airline hostess,Esta es una frase con la palabra 'anfitriona'.,This is a sentence with the word 'airline hostess'.
+el avión,airplane,Esta es una frase con la palabra 'el avión'.,This is a sentence with the word 'airplane'.
+el coche,car,Esta es una frase con la palabra 'el coche'.,This is a sentence with the word 'car'.
+la bicicleta,bicycle,Esta es una frase con la palabra 'la bicicleta'.,This is a sentence with the word 'bicycle'.
+la motocicleta,motorcycle,Esta es una frase con la palabra 'la motocicleta'.,This is a sentence with the word 'motorcycle'.
+el tren,train,Esta es una frase con la palabra 'el tren'.,This is a sentence with the word 'train'.
+el metro/subte,subway,Esta es una frase con la palabra 'el metro/subte'.,This is a sentence with the word 'subway'.
+el autobús,bus,Esta es una frase con la palabra 'el autobús'.,This is a sentence with the word 'bus'.
+el barco,ship,Esta es una frase con la palabra 'el barco'.,This is a sentence with the word 'ship'.
+taxista,taxi driver,Esta es una frase con la palabra 'taxista'.,This is a sentence with the word 'taxi driver'.
+revisor(a),train conductor,Esta es una frase con la palabra 'revisor(a)'.,This is a sentence with the word 'train conductor'.
+dependiente de gas,gas station attendant,Esta es una frase con la palabra 'dependiente de gas'.,This is a sentence with the word 'gas station attendant'.
+conductor(a),"driver, chauffeur",Esta es una frase con la palabra 'conductor(a)'.,"This is a sentence with the word 'driver, chauffeur'."
+camionero(a),truck driver,Esta es una frase con la palabra 'camionero(a)'.,This is a sentence with the word 'truck driver'.
+el sol,the sun,Esta es una frase con la palabra 'el sol'.,This is a sentence with the word 'the sun'.
+las nubes,the clouds,Esta es una frase con la palabra 'las nubes'.,This is a sentence with the word 'the clouds'.
+la niebla,the fog,Esta es una frase con la palabra 'la niebla'.,This is a sentence with the word 'the fog'.
+la neblina,the mist,Esta es una frase con la palabra 'la neblina'.,This is a sentence with the word 'the mist'.
+la lluvia,the rain,Esta es una frase con la palabra 'la lluvia'.,This is a sentence with the word 'the rain'.
+la llovizna,the drizzle,Esta es una frase con la palabra 'la llovizna'.,This is a sentence with the word 'the drizzle'.
+la tormenta,the storm,Esta es una frase con la palabra 'la tormenta'.,This is a sentence with the word 'the storm'.
+el tornado,the tornado,Esta es una frase con la palabra 'el tornado'.,This is a sentence with the word 'the tornado'.
+el trueno,the thunder,Esta es una frase con la palabra 'el trueno'.,This is a sentence with the word 'the thunder'.
+el relámpago,the lightning strike,Esta es una frase con la palabra 'el relámpago'.,This is a sentence with the word 'the lightning strike'.
+el rayo,the lightning bolt,Esta es una frase con la palabra 'el rayo'.,This is a sentence with the word 'the lightning bolt'.
+el viento,the wind,Esta es una frase con la palabra 'el viento'.,This is a sentence with the word 'the wind'.
+la brisa,the breeze,Esta es una frase con la palabra 'la brisa'.,This is a sentence with the word 'the breeze'.
+el granizo,the hail,Esta es una frase con la palabra 'el granizo'.,This is a sentence with the word 'the hail'.
+el hielo,the ice,Esta es una frase con la palabra 'el hielo'.,This is a sentence with the word 'the ice'.
+la nieve,the snow,Esta es una frase con la palabra 'la nieve'.,This is a sentence with the word 'the snow'.
+el calor,the heat,Esta es una frase con la palabra 'el calor'.,This is a sentence with the word 'the heat'.
+el frío,the cold,Esta es una frase con la palabra 'el frío'.,This is a sentence with the word 'the cold'.
+la humedad,the humidity,Esta es una frase con la palabra 'la humedad'.,This is a sentence with the word 'the humidity'.
+la temperatura,the temperature,Esta es una frase con la palabra 'la temperatura'.,This is a sentence with the word 'the temperature'.
+el pronóstico,the forecast,Esta es una frase con la palabra 'el pronóstico'.,This is a sentence with the word 'the forecast'.
+llover,to rain,Esta es una frase con la palabra 'llover'.,This is a sentence with the word 'to rain'.
+lloviznar,to drizzle,Esta es una frase con la palabra 'lloviznar'.,This is a sentence with the word 'to drizzle'.
+diluviar,to pour down,Esta es una frase con la palabra 'diluviar'.,This is a sentence with the word 'to pour down'.
+granizar,to hail,Esta es una frase con la palabra 'granizar'.,This is a sentence with the word 'to hail'.
+nevar,to snow,Esta es una frase con la palabra 'nevar'.,This is a sentence with the word 'to snow'.
+el invierno,winter,Esta es una frase con la palabra 'el invierno'.,This is a sentence with the word 'winter'.
+la primavera,spring,Esta es una frase con la palabra 'la primavera'.,This is a sentence with the word 'spring'.
+el verano,summer,Esta es una frase con la palabra 'el verano'.,This is a sentence with the word 'summer'.
+el otoño,fall,Esta es una frase con la palabra 'el otoño'.,This is a sentence with the word 'fall'.
+carta de motivación,cover letter,Esta es una frase con la palabra 'carta de motivación'.,This is a sentence with the word 'cover letter'.
+el cv,resume,Esta es una frase con la palabra 'el cv'.,This is a sentence with the word 'resume'.
+la firma,firm,Esta es una frase con la palabra 'la firma'.,This is a sentence with the word 'firm'.
+el negocio,business,Esta es una frase con la palabra 'el negocio'.,This is a sentence with the word 'business'.
+la compañía,company,Esta es una frase con la palabra 'la compañía'.,This is a sentence with the word 'company'.
+el jefe,boss,Esta es una frase con la palabra 'el jefe'.,This is a sentence with the word 'boss'.
+el empleado,employee,Esta es una frase con la palabra 'el empleado'.,This is a sentence with the word 'employee'.
+trabajar,to work,Esta es una frase con la palabra 'trabajar'.,This is a sentence with the word 'to work'.
+negociar,to negotiate,Esta es una frase con la palabra 'negociar'.,This is a sentence with the word 'to negotiate'.
+consultor(a),consultant,Esta es una frase con la palabra 'consultor(a)'.,This is a sentence with the word 'consultant'.
+dueño(a),owner,Esta es una frase con la palabra 'dueño(a)'.,This is a sentence with the word 'owner'.
+abogado(a),lawyer,Esta es una frase con la palabra 'abogado(a)'.,This is a sentence with the word 'lawyer'.
+arquitecto(a),architect,Esta es una frase con la palabra 'arquitecto(a)'.,This is a sentence with the word 'architect'.
+bombero(a),fireman,Esta es una frase con la palabra 'bombero(a)'.,This is a sentence with the word 'fireman'.
+campesino(a),farm worker,Esta es una frase con la palabra 'campesino(a)'.,This is a sentence with the word 'farm worker'.
+carpintero(a),carpenter,Esta es una frase con la palabra 'carpintero(a)'.,This is a sentence with the word 'carpenter'.
+cartero(a),postal worker,Esta es una frase con la palabra 'cartero(a)'.,This is a sentence with the word 'postal worker'.
+casero(a),landlord,Esta es una frase con la palabra 'casero(a)'.,This is a sentence with the word 'landlord'.
+científico(a),scientist,Esta es una frase con la palabra 'científico(a)'.,This is a sentence with the word 'scientist'.
+cocinero(a),"cook, chef",Esta es una frase con la palabra 'cocinero(a)'.,"This is a sentence with the word 'cook, chef'."
+consejero (a),counselor,Esta es una frase con la palabra 'consejero (a)'.,This is a sentence with the word 'counselor'.
+constructor (a),construction worker,Esta es una frase con la palabra 'constructor (a)'.,This is a sentence with the word 'construction worker'.
+contador(a),accountant/bookkeeper,Esta es una frase con la palabra 'contador(a)'.,This is a sentence with the word 'accountant/bookkeeper'.
+doméstico(a),maid,Esta es una frase con la palabra 'doméstico(a)'.,This is a sentence with the word 'maid'.
+detective,detective,Esta es una frase con la palabra 'detective'.,This is a sentence with the word 'detective'.
+"director, revisor, redactor(a)",editor,"Esta es una frase con la palabra 'director, revisor, redactor(a)'.",This is a sentence with the word 'editor'.
+electricista,electrician,Esta es una frase con la palabra 'electricista'.,This is a sentence with the word 'electrician'.
+escritor / autor(a),writer / author,Esta es una frase con la palabra 'escritor / autor(a)'.,This is a sentence with the word 'writer / author'.
+"vaquero, tropero(a)",cowboy,"Esta es una frase con la palabra 'vaquero, tropero(a)'.",This is a sentence with the word 'cowboy'.
+manejador(a),manager,Esta es una frase con la palabra 'manejador(a)'.,This is a sentence with the word 'manager'.
+granjero(a),farmer,Esta es una frase con la palabra 'granjero(a)'.,This is a sentence with the word 'farmer'.
+ingeniero(a),engineer,Esta es una frase con la palabra 'ingeniero(a)'.,This is a sentence with the word 'engineer'.
+jardinero(a),gardener,Esta es una frase con la palabra 'jardinero(a)'.,This is a sentence with the word 'gardener'.
+jefe,boss,Esta es una frase con la palabra 'jefe'.,This is a sentence with the word 'boss'.
+juez,judge,Esta es una frase con la palabra 'juez'.,This is a sentence with the word 'judge'.
+lavandero(a),laundry person,Esta es una frase con la palabra 'lavandero(a)'.,This is a sentence with the word 'laundry person'.
+marinero(a),merchant marine,Esta es una frase con la palabra 'marinero(a)'.,This is a sentence with the word 'merchant marine'.
+mecánico (a),mechanic,Esta es una frase con la palabra 'mecánico (a)'.,This is a sentence with the word 'mechanic'.
+camarero(a),waiter,Esta es una frase con la palabra 'camarero(a)'.,This is a sentence with the word 'waiter'.
+padre,priest,Esta es una frase con la palabra 'padre'.,This is a sentence with the word 'priest'.
+panadero(a),baker,Esta es una frase con la palabra 'panadero(a)'.,This is a sentence with the word 'baker'.
+pastor(a),pastor/minister,Esta es una frase con la palabra 'pastor(a)'.,This is a sentence with the word 'pastor/minister'.
+periodista,reporter/journalist,Esta es una frase con la palabra 'periodista'.,This is a sentence with the word 'reporter/journalist'.
+pescador(a),fisherman,Esta es una frase con la palabra 'pescador(a)'.,This is a sentence with the word 'fisherman'.
+pintor(a),painter,Esta es una frase con la palabra 'pintor(a)'.,This is a sentence with the word 'painter'.
+plomero(a),plumber,Esta es una frase con la palabra 'plomero(a)'.,This is a sentence with the word 'plumber'.
+Policía,policeman,Esta es una frase con la palabra 'Policía'.,This is a sentence with the word 'policeman'.
+programador(a),computer programmer,Esta es una frase con la palabra 'programador(a)'.,This is a sentence with the word 'computer programmer'.
+dueño(a),owner,Esta es una frase con la palabra 'dueño(a)'.,This is a sentence with the word 'owner'.
+químico(a),chemist,Esta es una frase con la palabra 'químico(a)'.,This is a sentence with the word 'chemist'.
+ranchero(a),rancher,Esta es una frase con la palabra 'ranchero(a)'.,This is a sentence with the word 'rancher'.
+rebuscador(a),researcher,Esta es una frase con la palabra 'rebuscador(a)'.,This is a sentence with the word 'researcher'.
+reparador(a),repairman,Esta es una frase con la palabra 'reparador(a)'.,This is a sentence with the word 'repairman'.
+técnico(a) de laboratorio,lab technician,Esta es una frase con la palabra 'técnico(a) de laboratorio'.,This is a sentence with the word 'lab technician'.
+trabajador(a) de fábrica,factory worker,Esta es una frase con la palabra 'trabajador(a) de fábrica'.,This is a sentence with the word 'factory worker'.
+veterinario(a),veterinarian,Esta es una frase con la palabra 'veterinario(a)'.,This is a sentence with the word 'veterinarian'.
+ir al gimnasio,go to the gym,Esta es una frase con la palabra 'ir al gimnasio'.,This is a sentence with the word 'go to the gym'.
+ir de caminata,go hiking,Esta es una frase con la palabra 'ir de caminata'.,This is a sentence with the word 'go hiking'.
+levantar pesas,lift weight,Esta es una frase con la palabra 'levantar pesas'.,This is a sentence with the word 'lift weight'.
+mantenerse en forma,to stay in shape,Esta es una frase con la palabra 'mantenerse en forma'.,This is a sentence with the word 'to stay in shape'.
+practicar,to practice,Esta es una frase con la palabra 'practicar'.,This is a sentence with the word 'to practice'.
+nadar,to swim,Esta es una frase con la palabra 'nadar'.,This is a sentence with the word 'to swim'.
+el yoga,yoga,Esta es una frase con la palabra 'el yoga'.,This is a sentence with the word 'yoga'.
+el fútbol,soccer,Esta es una frase con la palabra 'el fútbol'.,This is a sentence with the word 'soccer'.
+el fútbol americano,football,Esta es una frase con la palabra 'el fútbol americano'.,This is a sentence with the word 'football'.
+el béisbol,baseball,Esta es una frase con la palabra 'el béisbol'.,This is a sentence with the word 'baseball'.
+el baloncesto,basketball,Esta es una frase con la palabra 'el baloncesto'.,This is a sentence with the word 'basketball'.
+el golf,golf,Esta es una frase con la palabra 'el golf'.,This is a sentence with the word 'golf'.
+el hockey,hockey,Esta es una frase con la palabra 'el hockey'.,This is a sentence with the word 'hockey'.
+el tenis,tennis,Esta es una frase con la palabra 'el tenis'.,This is a sentence with the word 'tennis'.
+el voleibol,volleyball,Esta es una frase con la palabra 'el voleibol'.,This is a sentence with the word 'volleyball'.
+luchar,to wrestle/to fight,Esta es una frase con la palabra 'luchar'.,This is a sentence with the word 'to wrestle/to fight'.
+correr,to run,Esta es una frase con la palabra 'correr'.,This is a sentence with the word 'to run'.
+esquiar,to ski,Esta es una frase con la palabra 'esquiar'.,This is a sentence with the word 'to ski'.
+el partido,game/match,Esta es una frase con la palabra 'el partido'.,This is a sentence with the word 'game/match'.
+la carrera,race,Esta es una frase con la palabra 'la carrera'.,This is a sentence with the word 'race'.
+el torneo,tournament,Esta es una frase con la palabra 'el torneo'.,This is a sentence with the word 'tournament'.
+patear,to kick,Esta es una frase con la palabra 'patear'.,This is a sentence with the word 'to kick'.
+saltar,to jump,Esta es una frase con la palabra 'saltar'.,This is a sentence with the word 'to jump'.
+parar,to stop/to block,Esta es una frase con la palabra 'parar'.,This is a sentence with the word 'to stop/to block'.
+balancear,to swing,Esta es una frase con la palabra 'balancear'.,This is a sentence with the word 'to swing'.
+servir,to serve,Esta es una frase con la palabra 'servir'.,This is a sentence with the word 'to serve'.
+rematar,to spike,Esta es una frase con la palabra 'rematar'.,This is a sentence with the word 'to spike'.
+pegar,to hit,Esta es una frase con la palabra 'pegar'.,This is a sentence with the word 'to hit'.
+driblar,to dribble,Esta es una frase con la palabra 'driblar'.,This is a sentence with the word 'to dribble'.
+tirar,to throw,Esta es una frase con la palabra 'tirar'.,This is a sentence with the word 'to throw'.
+agarrar,to catch,Esta es una frase con la palabra 'agarrar'.,This is a sentence with the word 'to catch'.
+ganar,to win,Esta es una frase con la palabra 'ganar'.,This is a sentence with the word 'to win'.
+perder,to lose,Esta es una frase con la palabra 'perder'.,This is a sentence with the word 'to lose'.
+empatar,to tie,Esta es una frase con la palabra 'empatar'.,This is a sentence with the word 'to tie'.
+caminar,to walk,Esta es una frase con la palabra 'caminar'.,This is a sentence with the word 'to walk'.
+bailar,to dance,Esta es una frase con la palabra 'bailar'.,This is a sentence with the word 'to dance'.
+jugar,to play,Esta es una frase con la palabra 'jugar'.,This is a sentence with the word 'to play'.
+competir,to compete,Esta es una frase con la palabra 'competir'.,This is a sentence with the word 'to compete'.
+These common Spanish words for food will leave you hungry for more Spanish!,,Esta es una frase con la palabra 'These common Spanish words for food will leave you hungry for more Spanish!'.,This is a sentence with the word 'nan'.
+la comida,food,Esta es una frase con la palabra 'la comida'.,This is a sentence with the word 'food'.
+las bebidas,drinks,Esta es una frase con la palabra 'las bebidas'.,This is a sentence with the word 'drinks'.
+las verduras,vegetables,Esta es una frase con la palabra 'las verduras'.,This is a sentence with the word 'vegetables'.
+las frutas,fruits,Esta es una frase con la palabra 'las frutas'.,This is a sentence with the word 'fruits'.
+cocinar,to cook,Esta es una frase con la palabra 'cocinar'.,This is a sentence with the word 'to cook'.
+tengo hambre,i’m hungry,Esta es una frase con la palabra 'tengo hambre'.,This is a sentence with the word 'i’m hungry'.
+tengo sed,i’m thirsty,Esta es una frase con la palabra 'tengo sed'.,This is a sentence with the word 'i’m thirsty'.
+la res,beef,Esta es una frase con la palabra 'la res'.,This is a sentence with the word 'beef'.
+el pollo,chicken,Esta es una frase con la palabra 'el pollo'.,This is a sentence with the word 'chicken'.
+la gallina,chicken,Esta es una frase con la palabra 'la gallina'.,This is a sentence with the word 'chicken'.
+el cordero,lamb,Esta es una frase con la palabra 'el cordero'.,This is a sentence with the word 'lamb'.
+la barbacoa,grilled,Esta es una frase con la palabra 'la barbacoa'.,This is a sentence with the word 'grilled'.
+el cerdo,pork,Esta es una frase con la palabra 'el cerdo'.,This is a sentence with the word 'pork'.
+el perrito caliente,hot dog,Esta es una frase con la palabra 'el perrito caliente'.,This is a sentence with the word 'hot dog'.
+el jamón,ham,Esta es una frase con la palabra 'el jamón'.,This is a sentence with the word 'ham'.
+la hamburguesa,hamburger,Esta es una frase con la palabra 'la hamburguesa'.,This is a sentence with the word 'hamburger'.
+el tocino,bacon,Esta es una frase con la palabra 'el tocino'.,This is a sentence with the word 'bacon'.
+el pescado,fish,Esta es una frase con la palabra 'el pescado'.,This is a sentence with the word 'fish'.
+la zanahoria,carrot,Esta es una frase con la palabra 'la zanahoria'.,This is a sentence with the word 'carrot'.
+la lechuga,lettuce,Esta es una frase con la palabra 'la lechuga'.,This is a sentence with the word 'lettuce'.
+el tomate,tomato,Esta es una frase con la palabra 'el tomate'.,This is a sentence with the word 'tomato'.
+la maíz,corn,Esta es una frase con la palabra 'la maíz'.,This is a sentence with the word 'corn'.
+la papa,potato,Esta es una frase con la palabra 'la papa'.,This is a sentence with the word 'potato'.
+la patata,potato,Esta es una frase con la palabra 'la patata'.,This is a sentence with the word 'potato'.
+las papas,french fries,Esta es una frase con la palabra 'las papas'.,This is a sentence with the word 'french fries'.
+las patatas fritas,french fries,Esta es una frase con la palabra 'las patatas fritas'.,This is a sentence with the word 'french fries'.
+el brocoli,broccoli,Esta es una frase con la palabra 'el brocoli'.,This is a sentence with the word 'broccoli'.
+la espinaca,spinach,Esta es una frase con la palabra 'la espinaca'.,This is a sentence with the word 'spinach'.
+la cebolla,onion,Esta es una frase con la palabra 'la cebolla'.,This is a sentence with the word 'onion'.
+la col,cabbage,Esta es una frase con la palabra 'la col'.,This is a sentence with the word 'cabbage'.
+la ensalada,salad,Esta es una frase con la palabra 'la ensalada'.,This is a sentence with the word 'salad'.
+la aceituna,olive,Esta es una frase con la palabra 'la aceituna'.,This is a sentence with the word 'olive'.
+las calabacitas,squash,Esta es una frase con la palabra 'las calabacitas'.,This is a sentence with the word 'squash'.
+el hongo,mushroom,Esta es una frase con la palabra 'el hongo'.,This is a sentence with the word 'mushroom'.
+el pepino,cucumber,Esta es una frase con la palabra 'el pepino'.,This is a sentence with the word 'cucumber'.
+la manzana,apple,Esta es una frase con la palabra 'la manzana'.,This is a sentence with the word 'apple'.
+la pera,pear,Esta es una frase con la palabra 'la pera'.,This is a sentence with the word 'pear'.
+la fresa,strawberry,Esta es una frase con la palabra 'la fresa'.,This is a sentence with the word 'strawberry'.
+la frambuesa,raspberry,Esta es una frase con la palabra 'la frambuesa'.,This is a sentence with the word 'raspberry'.
+la zarzamora,blackberry,Esta es una frase con la palabra 'la zarzamora'.,This is a sentence with the word 'blackberry'.
+el arándano,blueberry,Esta es una frase con la palabra 'el arándano'.,This is a sentence with the word 'blueberry'.
+el arándano rojo,cranberry,Esta es una frase con la palabra 'el arándano rojo'.,This is a sentence with the word 'cranberry'.
+la naranja,orange,Esta es una frase con la palabra 'la naranja'.,This is a sentence with the word 'orange'.
+la mandarina,tangerine,Esta es una frase con la palabra 'la mandarina'.,This is a sentence with the word 'tangerine'.
+la toronja,grapefruit,Esta es una frase con la palabra 'la toronja'.,This is a sentence with the word 'grapefruit'.
+el limón,lemon,Esta es una frase con la palabra 'el limón'.,This is a sentence with the word 'lemon'.
+la lima,lime,Esta es una frase con la palabra 'la lima'.,This is a sentence with the word 'lime'.
+el plátano,banana,Esta es una frase con la palabra 'el plátano'.,This is a sentence with the word 'banana'.
+la piña,pineapple,Esta es una frase con la palabra 'la piña'.,This is a sentence with the word 'pineapple'.
+el coco,coconut,Esta es una frase con la palabra 'el coco'.,This is a sentence with the word 'coconut'.
+el mango,mango,Esta es una frase con la palabra 'el mango'.,This is a sentence with the word 'mango'.
+la papaya,papaya,Esta es una frase con la palabra 'la papaya'.,This is a sentence with the word 'papaya'.
+la cerveza,beer,Esta es una frase con la palabra 'la cerveza'.,This is a sentence with the word 'beer'.
+el refresco,"pop, soft drink",Esta es una frase con la palabra 'el refresco'.,"This is a sentence with the word 'pop, soft drink'."
+el té,tea,Esta es una frase con la palabra 'el té'.,This is a sentence with the word 'tea'.
+el té helado,iced tea,Esta es una frase con la palabra 'el té helado'.,This is a sentence with the word 'iced tea'.
+el café,coffee,Esta es una frase con la palabra 'el café'.,This is a sentence with the word 'coffee'.
+la leche,milk,Esta es una frase con la palabra 'la leche'.,This is a sentence with the word 'milk'.
+el agua,water,Esta es una frase con la palabra 'el agua'.,This is a sentence with the word 'water'.
+el jugo,juice,Esta es una frase con la palabra 'el jugo'.,This is a sentence with the word 'juice'.
+el batido,milkshake,Esta es una frase con la palabra 'el batido'.,This is a sentence with the word 'milkshake'.
+el chocolate,chocolate,Esta es una frase con la palabra 'el chocolate'.,This is a sentence with the word 'chocolate'.
+los dulces,candy,Esta es una frase con la palabra 'los dulces'.,This is a sentence with the word 'candy'.
+el pastel,cake,Esta es una frase con la palabra 'el pastel'.,This is a sentence with the word 'cake'.
+las galletas,cookies,Esta es una frase con la palabra 'las galletas'.,This is a sentence with the word 'cookies'.
+el helado,ice cream,Esta es una frase con la palabra 'el helado'.,This is a sentence with the word 'ice cream'.
+el churros con chocolate,chocolate churros,Esta es una frase con la palabra 'el churros con chocolate'.,This is a sentence with the word 'chocolate churros'.
+el basque cheesecake,cheesecake,Esta es una frase con la palabra 'el basque cheesecake'.,This is a sentence with the word 'cheesecake'.
+el plato,plate,Esta es una frase con la palabra 'el plato'.,This is a sentence with the word 'plate'.
+el plato hondo,bowl,Esta es una frase con la palabra 'el plato hondo'.,This is a sentence with the word 'bowl'.
+el vaso,glass,Esta es una frase con la palabra 'el vaso'.,This is a sentence with the word 'glass'.
+la copa,cup,Esta es una frase con la palabra 'la copa'.,This is a sentence with the word 'cup'.
+el tenedor,fork,Esta es una frase con la palabra 'el tenedor'.,This is a sentence with the word 'fork'.
+la cuchara,spoon,Esta es una frase con la palabra 'la cuchara'.,This is a sentence with the word 'spoon'.
+el cuchillo,knife,Esta es una frase con la palabra 'el cuchillo'.,This is a sentence with the word 'knife'.
+la servilleta,napkin,Esta es una frase con la palabra 'la servilleta'.,This is a sentence with the word 'napkin'.
+dulce,sweet,Esta es una frase con la palabra 'dulce'.,This is a sentence with the word 'sweet'.
+salado(a),savory,Esta es una frase con la palabra 'salado(a)'.,This is a sentence with the word 'savory'.
+rico(a),delicious,Esta es una frase con la palabra 'rico(a)'.,This is a sentence with the word 'delicious'.
+el desayuno,breakfast,Esta es una frase con la palabra 'el desayuno'.,This is a sentence with the word 'breakfast'.
+el almuerzo,lunch,Esta es una frase con la palabra 'el almuerzo'.,This is a sentence with the word 'lunch'.
+la cena,dinner,Esta es una frase con la palabra 'la cena'.,This is a sentence with the word 'dinner'.
+el tentempié,snack,Esta es una frase con la palabra 'el tentempié'.,This is a sentence with the word 'snack'.
+"la prenda, la ropa",clothes,"Esta es una frase con la palabra 'la prenda, la ropa'.",This is a sentence with the word 'clothes'.
+los zapatos,shoes,Esta es una frase con la palabra 'los zapatos'.,This is a sentence with the word 'shoes'.
+el pantalón,pants,Esta es una frase con la palabra 'el pantalón'.,This is a sentence with the word 'pants'.
+la camiseta / la camisa,shirt,Esta es una frase con la palabra 'la camiseta / la camisa'.,This is a sentence with the word 'shirt'.
+la chaqueta,jacket,Esta es una frase con la palabra 'la chaqueta'.,This is a sentence with the word 'jacket'.
+la falda,skirt,Esta es una frase con la palabra 'la falda'.,This is a sentence with the word 'skirt'.
+el suéter,sweater,Esta es una frase con la palabra 'el suéter'.,This is a sentence with the word 'sweater'.
+el vestido,dress,Esta es una frase con la palabra 'el vestido'.,This is a sentence with the word 'dress'.
+la navidad,christmas,Esta es una frase con la palabra 'la navidad'.,This is a sentence with the word 'christmas'.
+el año nuevo,new year,Esta es una frase con la palabra 'el año nuevo'.,This is a sentence with the word 'new year'.
+la pascua,easter,Esta es una frase con la palabra 'la pascua'.,This is a sentence with the word 'easter'.
+el día de san valentín,valentine’s day,Esta es una frase con la palabra 'el día de san valentín'.,This is a sentence with the word 'valentine’s day'.
+el día de la madre,mother’s day,Esta es una frase con la palabra 'el día de la madre'.,This is a sentence with the word 'mother’s day'.
+el día del padre,father’s day,Esta es una frase con la palabra 'el día del padre'.,This is a sentence with the word 'father’s day'.
+el día de la independencia,independence day,Esta es una frase con la palabra 'el día de la independencia'.,This is a sentence with the word 'independence day'.
+el día de acción de gracias,thanksgiving,Esta es una frase con la palabra 'el día de acción de gracias'.,This is a sentence with the word 'thanksgiving'.
+el cumpleaños,birthday,Esta es una frase con la palabra 'el cumpleaños'.,This is a sentence with the word 'birthday'.
+la fiesta,the party,Esta es una frase con la palabra 'la fiesta'.,This is a sentence with the word 'the party'.
+la boda,the wedding,Esta es una frase con la palabra 'la boda'.,This is a sentence with the word 'the wedding'.
+el cuerpo humano,the human body,Esta es una frase con la palabra 'el cuerpo humano'.,This is a sentence with the word 'the human body'.
+la cabeza,head,Esta es una frase con la palabra 'la cabeza'.,This is a sentence with the word 'head'.
+el pecho,chest,Esta es una frase con la palabra 'el pecho'.,This is a sentence with the word 'chest'.
+el oído / la oreja,ear,Esta es una frase con la palabra 'el oído / la oreja'.,This is a sentence with the word 'ear'.
+el ojo,eye,Esta es una frase con la palabra 'el ojo'.,This is a sentence with the word 'eye'.
+la cara,face,Esta es una frase con la palabra 'la cara'.,This is a sentence with the word 'face'.
+la mano,hand,Esta es una frase con la palabra 'la mano'.,This is a sentence with the word 'hand'.
+la boca,mouth,Esta es una frase con la palabra 'la boca'.,This is a sentence with the word 'mouth'.
+el pie,foot,Esta es una frase con la palabra 'el pie'.,This is a sentence with the word 'foot'.
+la espalda,back,Esta es una frase con la palabra 'la espalda'.,This is a sentence with the word 'back'.
+el pelo,hair,Esta es una frase con la palabra 'el pelo'.,This is a sentence with the word 'hair'.
+el codo,elbow,Esta es una frase con la palabra 'el codo'.,This is a sentence with the word 'elbow'.
+el dedo,finger,Esta es una frase con la palabra 'el dedo'.,This is a sentence with the word 'finger'.
+la pantorrilla,calf,Esta es una frase con la palabra 'la pantorrilla'.,This is a sentence with the word 'calf'.
+la pierna,leg,Esta es una frase con la palabra 'la pierna'.,This is a sentence with the word 'leg'.
+la muñeca,wrist,Esta es una frase con la palabra 'la muñeca'.,This is a sentence with the word 'wrist'.
+el talón,heel,Esta es una frase con la palabra 'el talón'.,This is a sentence with the word 'heel'.
+el brazo,arm,Esta es una frase con la palabra 'el brazo'.,This is a sentence with the word 'arm'.
+el cuello,neck,Esta es una frase con la palabra 'el cuello'.,This is a sentence with the word 'neck'.
+el tobillo,ankle,Esta es una frase con la palabra 'el tobillo'.,This is a sentence with the word 'ankle'.
+la frente,forehead,Esta es una frase con la palabra 'la frente'.,This is a sentence with the word 'forehead'.
+el muslo,thigh,Esta es una frase con la palabra 'el muslo'.,This is a sentence with the word 'thigh'.
+la barba,beard,Esta es una frase con la palabra 'la barba'.,This is a sentence with the word 'beard'.
+el bigote,mustache,Esta es una frase con la palabra 'el bigote'.,This is a sentence with the word 'mustache'.
+la lengua,tongue,Esta es una frase con la palabra 'la lengua'.,This is a sentence with the word 'tongue'.
+el dedo del pie,toe,Esta es una frase con la palabra 'el dedo del pie'.,This is a sentence with the word 'toe'.
+la cintura,waist,Esta es una frase con la palabra 'la cintura'.,This is a sentence with the word 'waist'.
+la cadera,hip,Esta es una frase con la palabra 'la cadera'.,This is a sentence with the word 'hip'.
+las nalgas,buttocks,Esta es una frase con la palabra 'las nalgas'.,This is a sentence with the word 'buttocks'.
+el pulgar,thumb,Esta es una frase con la palabra 'el pulgar'.,This is a sentence with the word 'thumb'.
+la rodilla,knee,Esta es una frase con la palabra 'la rodilla'.,This is a sentence with the word 'knee'.
+la nariz,nose,Esta es una frase con la palabra 'la nariz'.,This is a sentence with the word 'nose'.
+"la mejilla, el cachete",cheek,"Esta es una frase con la palabra 'la mejilla, el cachete'.",This is a sentence with the word 'cheek'.
+los labios,lips,Esta es una frase con la palabra 'los labios'.,This is a sentence with the word 'lips'.
+el hombro,shoulder,Esta es una frase con la palabra 'el hombro'.,This is a sentence with the word 'shoulder'.
+"la barbilla, el mentón",chin,"Esta es una frase con la palabra 'la barbilla, el mentón'.",This is a sentence with the word 'chin'.
+las cejas,eyebrows,Esta es una frase con la palabra 'las cejas'.,This is a sentence with the word 'eyebrows'.
+las pestañas,eyelashes,Esta es una frase con la palabra 'las pestañas'.,This is a sentence with the word 'eyelashes'.
+el ombligo,belly button,Esta es una frase con la palabra 'el ombligo'.,This is a sentence with the word 'belly button'.
+la piel,skin,Esta es una frase con la palabra 'la piel'.,This is a sentence with the word 'skin'.
+el vientre,stomach,Esta es una frase con la palabra 'el vientre'.,This is a sentence with the word 'stomach'.
+la garganta,throat,Esta es una frase con la palabra 'la garganta'.,This is a sentence with the word 'throat'.
+los dientes/las muelas,teeth,Esta es una frase con la palabra 'los dientes/las muelas'.,This is a sentence with the word 'teeth'.
+Connect your Spanish ideas with these transition words and your sentences will begin to flow with ease!,,Esta es una frase con la palabra 'Connect your Spanish ideas with these transition words and your sentences will begin to flow with ease!'.,This is a sentence with the word 'nan'.
+al principio,at the beginning,Esta es una frase con la palabra 'al principio'.,This is a sentence with the word 'at the beginning'.
+en primer lugar,firstly,Esta es una frase con la palabra 'en primer lugar'.,This is a sentence with the word 'firstly'.
+para comenzar,to start,Esta es una frase con la palabra 'para comenzar'.,This is a sentence with the word 'to start'.
+antes,before,Esta es una frase con la palabra 'antes'.,This is a sentence with the word 'before'.
+después,after,Esta es una frase con la palabra 'después'.,This is a sentence with the word 'after'.
+a continuación,in continuation,Esta es una frase con la palabra 'a continuación'.,This is a sentence with the word 'in continuation'.
+mientras tanto,meanwhile,Esta es una frase con la palabra 'mientras tanto'.,This is a sentence with the word 'meanwhile'.
+al final,at the end,Esta es una frase con la palabra 'al final'.,This is a sentence with the word 'at the end'.
+además,additionally,Esta es una frase con la palabra 'además'.,This is a sentence with the word 'additionally'.
+aparte de,apart from,Esta es una frase con la palabra 'aparte de'.,This is a sentence with the word 'apart from'.
+asimismo,at the same time,Esta es una frase con la palabra 'asimismo'.,This is a sentence with the word 'at the same time'.
+también,also,Esta es una frase con la palabra 'también'.,This is a sentence with the word 'also'.
+de igual manera,in the same way,Esta es una frase con la palabra 'de igual manera'.,This is a sentence with the word 'in the same way'.
+pero,but,Esta es una frase con la palabra 'pero'.,This is a sentence with the word 'but'.
+sin embargo,however,Esta es una frase con la palabra 'sin embargo'.,This is a sentence with the word 'however'.
+no obstante,nevertheless,Esta es una frase con la palabra 'no obstante'.,This is a sentence with the word 'nevertheless'.
+por otro lado,on the other hand,Esta es una frase con la palabra 'por otro lado'.,This is a sentence with the word 'on the other hand'.
+aunque,even though,Esta es una frase con la palabra 'aunque'.,This is a sentence with the word 'even though'.
+a pesar de,despite,Esta es una frase con la palabra 'a pesar de'.,This is a sentence with the word 'despite'.
+"Wherever you are, you’ll want to be able to talk about your location in Spanish.",,"Esta es una frase con la palabra 'Wherever you are, you’ll want to be able to talk about your location in Spanish.'.",This is a sentence with the word 'nan'.
+dentro de,inside of,Esta es una frase con la palabra 'dentro de'.,This is a sentence with the word 'inside of'.
+encima de/sobre,on top of,Esta es una frase con la palabra 'encima de/sobre'.,This is a sentence with the word 'on top of'.
+debajo de,underneath of,Esta es una frase con la palabra 'debajo de'.,This is a sentence with the word 'underneath of'.
+delante de,in front of,Esta es una frase con la palabra 'delante de'.,This is a sentence with the word 'in front of'.
+detrás de,behind,Esta es una frase con la palabra 'detrás de'.,This is a sentence with the word 'behind'.
+entre,between,Esta es una frase con la palabra 'entre'.,This is a sentence with the word 'between'.
+en,in/on/at,Esta es una frase con la palabra 'en'.,This is a sentence with the word 'in/on/at'.
+dentro de,inside of,Esta es una frase con la palabra 'dentro de'.,This is a sentence with the word 'inside of'.
+fuera de,outside of,Esta es una frase con la palabra 'fuera de'.,This is a sentence with the word 'outside of'.
+arriba de,above,Esta es una frase con la palabra 'arriba de'.,This is a sentence with the word 'above'.
+en medio de,in the middle of,Esta es una frase con la palabra 'en medio de'.,This is a sentence with the word 'in the middle of'.
+cerca de,close to,Esta es una frase con la palabra 'cerca de'.,This is a sentence with the word 'close to'.
+lejos de,far from,Esta es una frase con la palabra 'lejos de'.,This is a sentence with the word 'far from'.
+al lado de,next to,Esta es una frase con la palabra 'al lado de'.,This is a sentence with the word 'next to'.
+alrededor de,around,Esta es una frase con la palabra 'alrededor de'.,This is a sentence with the word 'around'.
+a la izquierda de,to the left of,Esta es una frase con la palabra 'a la izquierda de'.,This is a sentence with the word 'to the left of'.
+a la derecha de,to the right of,Esta es una frase con la palabra 'a la derecha de'.,This is a sentence with the word 'to the right of'.
+estar,to be,Esta es una frase con la palabra 'estar'.,This is a sentence with the word 'to be'.
+colocar,to place,Esta es una frase con la palabra 'colocar'.,This is a sentence with the word 'to place'.
+ubicar,to position,Esta es una frase con la palabra 'ubicar'.,This is a sentence with the word 'to position'.
+poner,to put,Esta es una frase con la palabra 'poner'.,This is a sentence with the word 'to put'.
+situar,to place,Esta es una frase con la palabra 'situar'.,This is a sentence with the word 'to place'.
+"aquí, acá",here,"Esta es una frase con la palabra 'aquí, acá'.",This is a sentence with the word 'here'.
+ahí,there,Esta es una frase con la palabra 'ahí'.,This is a sentence with the word 'there'.
+allí,there,Esta es una frase con la palabra 'allí'.,This is a sentence with the word 'there'.
+allá,over there,Esta es una frase con la palabra 'allá'.,This is a sentence with the word 'over there'.
+el este,east,Esta es una frase con la palabra 'el este'.,This is a sentence with the word 'east'.
+el norte,north,Esta es una frase con la palabra 'el norte'.,This is a sentence with the word 'north'.
+el oeste,west,Esta es una frase con la palabra 'el oeste'.,This is a sentence with the word 'west'.
+el sur,south,Esta es una frase con la palabra 'el sur'.,This is a sentence with the word 'south'.
+"Check out this classroom vocabulary for some of the 1,000 most common Spanish words.",,"Esta es una frase con la palabra 'Check out this classroom vocabulary for some of the 1,000 most common Spanish words.'.",This is a sentence with the word 'nan'.
+la clase,classroom,Esta es una frase con la palabra 'la clase'.,This is a sentence with the word 'classroom'.
+el aula,classroom,Esta es una frase con la palabra 'el aula'.,This is a sentence with the word 'classroom'.
+la pizarra,blackboard,Esta es una frase con la palabra 'la pizarra'.,This is a sentence with the word 'blackboard'.
+el pizarrón,whiteboard,Esta es una frase con la palabra 'el pizarrón'.,This is a sentence with the word 'whiteboard'.
+la tiza,chalk,Esta es una frase con la palabra 'la tiza'.,This is a sentence with the word 'chalk'.
+el marcador,marker,Esta es una frase con la palabra 'el marcador'.,This is a sentence with the word 'marker'.
+el borrador,eraser,Esta es una frase con la palabra 'el borrador'.,This is a sentence with the word 'eraser'.
+el escritorio,desk,Esta es una frase con la palabra 'el escritorio'.,This is a sentence with the word 'desk'.
+el pupitre,desk,Esta es una frase con la palabra 'el pupitre'.,This is a sentence with the word 'desk'.
+la silla,chair,Esta es una frase con la palabra 'la silla'.,This is a sentence with the word 'chair'.
+la mochila,backpack,Esta es una frase con la palabra 'la mochila'.,This is a sentence with the word 'backpack'.
+el libro,book,Esta es una frase con la palabra 'el libro'.,This is a sentence with the word 'book'.
+el cuaderno,notebook,Esta es una frase con la palabra 'el cuaderno'.,This is a sentence with the word 'notebook'.
+el papel,paper,Esta es una frase con la palabra 'el papel'.,This is a sentence with the word 'paper'.
+el lápiz,pencil,Esta es una frase con la palabra 'el lápiz'.,This is a sentence with the word 'pencil'.
+los lápices de colores,coloring pencils,Esta es una frase con la palabra 'los lápices de colores'.,This is a sentence with the word 'coloring pencils'.
+el sacapuntas,pencil sharpener,Esta es una frase con la palabra 'el sacapuntas'.,This is a sentence with the word 'pencil sharpener'.
+el bolígrafo,pen,Esta es una frase con la palabra 'el bolígrafo'.,This is a sentence with the word 'pen'.
+la goma,eraser,Esta es una frase con la palabra 'la goma'.,This is a sentence with the word 'eraser'.
+las tijeras,scissors,Esta es una frase con la palabra 'las tijeras'.,This is a sentence with the word 'scissors'.
+la cola/el pegamento,glue,Esta es una frase con la palabra 'la cola/el pegamento'.,This is a sentence with the word 'glue'.
+la regla,ruler,Esta es una frase con la palabra 'la regla'.,This is a sentence with the word 'ruler'.
+la grapadora,stapler,Esta es una frase con la palabra 'la grapadora'.,This is a sentence with the word 'stapler'.
+el estuche,pencil case,Esta es una frase con la palabra 'el estuche'.,This is a sentence with the word 'pencil case'.
+estudiar,to study,Esta es una frase con la palabra 'estudiar'.,This is a sentence with the word 'to study'.
+repasar,to revise,Esta es una frase con la palabra 'repasar'.,This is a sentence with the word 'to revise'.
+aprender,to learn,Esta es una frase con la palabra 'aprender'.,This is a sentence with the word 'to learn'.
+saber,to know,Esta es una frase con la palabra 'saber'.,This is a sentence with the word 'to know'.
+hacer los deberes,to do homework,Esta es una frase con la palabra 'hacer los deberes'.,This is a sentence with the word 'to do homework'.
+hacer la tarea,to do homework,Esta es una frase con la palabra 'hacer la tarea'.,This is a sentence with the word 'to do homework'.
+leer,to read,Esta es una frase con la palabra 'leer'.,This is a sentence with the word 'to read'.
+escribir,to write,Esta es una frase con la palabra 'escribir'.,This is a sentence with the word 'to write'.
+hablar,to speak,Esta es una frase con la palabra 'hablar'.,This is a sentence with the word 'to speak'.
+decir,to say,Esta es una frase con la palabra 'decir'.,This is a sentence with the word 'to say'.
+preguntar,to ask,Esta es una frase con la palabra 'preguntar'.,This is a sentence with the word 'to ask'.
+charlar,to chat,Esta es una frase con la palabra 'charlar'.,This is a sentence with the word 'to chat'.
+dictar,to dictate,Esta es una frase con la palabra 'dictar'.,This is a sentence with the word 'to dictate'.
+deletrear,to spell,Esta es una frase con la palabra 'deletrear'.,This is a sentence with the word 'to spell'.
+contar,to count,Esta es una frase con la palabra 'contar'.,This is a sentence with the word 'to count'.
+faltar,to miss school,Esta es una frase con la palabra 'faltar'.,This is a sentence with the word 'to miss school'.
+aprobar,to pass a subject/a test,Esta es una frase con la palabra 'aprobar'.,This is a sentence with the word 'to pass a subject/a test'.
+reprobar,to fail a subject/a test,Esta es una frase con la palabra 'reprobar'.,This is a sentence with the word 'to fail a subject/a test'.
+prestar,to lend,Esta es una frase con la palabra 'prestar'.,This is a sentence with the word 'to lend'.
+tomar prestado,to borrow,Esta es una frase con la palabra 'tomar prestado'.,This is a sentence with the word 'to borrow'.
+traer,to bring,Esta es una frase con la palabra 'traer'.,This is a sentence with the word 'to bring'.
+enseñar,to teach,Esta es una frase con la palabra 'enseñar'.,This is a sentence with the word 'to teach'.
+mostrar,to show,Esta es una frase con la palabra 'mostrar'.,This is a sentence with the word 'to show'.
+nombrar,to name,Esta es una frase con la palabra 'nombrar'.,This is a sentence with the word 'to name'.
+ayudar,to help,Esta es una frase con la palabra 'ayudar'.,This is a sentence with the word 'to help'.
+la escuela,school,Esta es una frase con la palabra 'la escuela'.,This is a sentence with the word 'school'.
+el colegio,school,Esta es una frase con la palabra 'el colegio'.,This is a sentence with the word 'school'.
+el gimnasio,gym,Esta es una frase con la palabra 'el gimnasio'.,This is a sentence with the word 'gym'.
+el patio,playground,Esta es una frase con la palabra 'el patio'.,This is a sentence with the word 'playground'.
+el baño,restroom,Esta es una frase con la palabra 'el baño'.,This is a sentence with the word 'restroom'.
+el pasillo,hallway,Esta es una frase con la palabra 'el pasillo'.,This is a sentence with the word 'hallway'.
+la biblioteca,library,Esta es una frase con la palabra 'la biblioteca'.,This is a sentence with the word 'library'.
+la oficina,office,Esta es una frase con la palabra 'la oficina'.,This is a sentence with the word 'office'.
+la sala de profesores,staff room,Esta es una frase con la palabra 'la sala de profesores'.,This is a sentence with the word 'staff room'.
+el comedor,cafeteria,Esta es una frase con la palabra 'el comedor'.,This is a sentence with the word 'cafeteria'.
+la cocina,kitchen,Esta es una frase con la palabra 'la cocina'.,This is a sentence with the word 'kitchen'.
+la enfermería,infirmary,Esta es una frase con la palabra 'la enfermería'.,This is a sentence with the word 'infirmary'.
+el laboratorio,lab,Esta es una frase con la palabra 'el laboratorio'.,This is a sentence with the word 'lab'.
+maestro/a,teacher (primary school),Esta es una frase con la palabra 'maestro/a'.,This is a sentence with the word 'teacher (primary school)'.
+profesor/a,teacher (secondary school),Esta es una frase con la palabra 'profesor/a'.,This is a sentence with the word 'teacher (secondary school)'.
+entrenador/a,coach,Esta es una frase con la palabra 'entrenador/a'.,This is a sentence with the word 'coach'.
+enfermero/a,nurse,Esta es una frase con la palabra 'enfermero/a'.,This is a sentence with the word 'nurse'.
+director/a,principal,Esta es una frase con la palabra 'director/a'.,This is a sentence with the word 'principal'.
+alumno/a,student,Esta es una frase con la palabra 'alumno/a'.,This is a sentence with the word 'student'.
+estudiante,student,Esta es una frase con la palabra 'estudiante'.,This is a sentence with the word 'student'.
+el almuerzo,lunch,Esta es una frase con la palabra 'el almuerzo'.,This is a sentence with the word 'lunch'.
+el recreo,recess,Esta es una frase con la palabra 'el recreo'.,This is a sentence with the word 'recess'.
+las vacaciones,vacations,Esta es una frase con la palabra 'las vacaciones'.,This is a sentence with the word 'vacations'.
+la comida,food,Esta es una frase con la palabra 'la comida'.,This is a sentence with the word 'food'.
+el casillero,locker,Esta es una frase con la palabra 'el casillero'.,This is a sentence with the word 'locker'.
+la materia,subject,Esta es una frase con la palabra 'la materia'.,This is a sentence with the word 'subject'.
+la matemática,math,Esta es una frase con la palabra 'la matemática'.,This is a sentence with the word 'math'.
+la biología,biology,Esta es una frase con la palabra 'la biología'.,This is a sentence with the word 'biology'.
+la química,chemistry,Esta es una frase con la palabra 'la química'.,This is a sentence with the word 'chemistry'.
+la física,physics,Esta es una frase con la palabra 'la física'.,This is a sentence with the word 'physics'.
+la educación física,physical education,Esta es una frase con la palabra 'la educación física'.,This is a sentence with the word 'physical education'.
+la historia,history,Esta es una frase con la palabra 'la historia'.,This is a sentence with the word 'history'.
+la literatura,literature,Esta es una frase con la palabra 'la literatura'.,This is a sentence with the word 'literature'.
+la prueba,test,Esta es una frase con la palabra 'la prueba'.,This is a sentence with the word 'test'.
+el examen,exam,Esta es una frase con la palabra 'el examen'.,This is a sentence with the word 'exam'.
+la nota,grade,Esta es una frase con la palabra 'la nota'.,This is a sentence with the word 'grade'.
+la calificación,grade,Esta es una frase con la palabra 'la calificación'.,This is a sentence with the word 'grade'.
+un ordenador (Spain),a computer,Esta es una frase con la palabra 'un ordenador (Spain)'.,This is a sentence with the word 'a computer'.
+una computadora (Latin America),a computer,Esta es una frase con la palabra 'una computadora (Latin America)'.,This is a sentence with the word 'a computer'.
+una tableta,a tablet,Esta es una frase con la palabra 'una tableta'.,This is a sentence with the word 'a tablet'.
+una impresora,a printer,Esta es una frase con la palabra 'una impresora'.,This is a sentence with the word 'a printer'.
+el ratón,the mouse,Esta es una frase con la palabra 'el ratón'.,This is a sentence with the word 'the mouse'.
+apagar,to turn on,Esta es una frase con la palabra 'apagar'.,This is a sentence with the word 'to turn on'.
+encender,to turn off,Esta es una frase con la palabra 'encender'.,This is a sentence with the word 'to turn off'.
+el disco duro,the hard drive,Esta es una frase con la palabra 'el disco duro'.,This is a sentence with the word 'the hard drive'.
+el teclado,the keyboard,Esta es una frase con la palabra 'el teclado'.,This is a sentence with the word 'the keyboard'.
+la tecla,the key,Esta es una frase con la palabra 'la tecla'.,This is a sentence with the word 'the key'.
+los auriculares,headphones,Esta es una frase con la palabra 'los auriculares'.,This is a sentence with the word 'headphones'.
+el micrófono,the mic,Esta es una frase con la palabra 'el micrófono'.,This is a sentence with the word 'the mic'.
+la pantalla,the screen,Esta es una frase con la palabra 'la pantalla'.,This is a sentence with the word 'the screen'.
+la cámara,the camera,Esta es una frase con la palabra 'la cámara'.,This is a sentence with the word 'the camera'.
+los altavoces,the speakers,Esta es una frase con la palabra 'los altavoces'.,This is a sentence with the word 'the speakers'.
+una aplicación,an app,Esta es una frase con la palabra 'una aplicación'.,This is a sentence with the word 'an app'.
+base de datos,database,Esta es una frase con la palabra 'base de datos'.,This is a sentence with the word 'database'.
+las redes sociales,social networks,Esta es una frase con la palabra 'las redes sociales'.,This is a sentence with the word 'social networks'.
+el enlace,the link,Esta es una frase con la palabra 'el enlace'.,This is a sentence with the word 'the link'.
+subir,to upload,Esta es una frase con la palabra 'subir'.,This is a sentence with the word 'to upload'.
+guardar,to save,Esta es una frase con la palabra 'guardar'.,This is a sentence with the word 'to save'.
+borrar,to delete,Esta es una frase con la palabra 'borrar'.,This is a sentence with the word 'to delete'.
+hacer click,to click,Esta es una frase con la palabra 'hacer click'.,This is a sentence with the word 'to click'.
+bajar/descargar,to download,Esta es una frase con la palabra 'bajar/descargar'.,This is a sentence with the word 'to download'.
+buscar en Google,search on Google,Esta es una frase con la palabra 'buscar en Google'.,This is a sentence with the word 'search on Google'.
+pirata informático,hacker,Esta es una frase con la palabra 'pirata informático'.,This is a sentence with the word 'hacker'.
+contraseña,password,Esta es una frase con la palabra 'contraseña'.,This is a sentence with the word 'password'.
+la casa,"house, home",Esta es una frase con la palabra 'la casa'.,"This is a sentence with the word 'house, home'."
+el hogar,home,Esta es una frase con la palabra 'el hogar'.,This is a sentence with the word 'home'.
+la habitación,bedroom,Esta es una frase con la palabra 'la habitación'.,This is a sentence with the word 'bedroom'.
+el cuarto,bedroom,Esta es una frase con la palabra 'el cuarto'.,This is a sentence with the word 'bedroom'.
+el dormitorio,bedroom,Esta es una frase con la palabra 'el dormitorio'.,This is a sentence with the word 'bedroom'.
+la sala,living room,Esta es una frase con la palabra 'la sala'.,This is a sentence with the word 'living room'.
+el comedor,dining room,Esta es una frase con la palabra 'el comedor'.,This is a sentence with the word 'dining room'.
+la cocina,kitchen,Esta es una frase con la palabra 'la cocina'.,This is a sentence with the word 'kitchen'.
+el baño,bathroom,Esta es una frase con la palabra 'el baño'.,This is a sentence with the word 'bathroom'.
+el pasillo,hallway,Esta es una frase con la palabra 'el pasillo'.,This is a sentence with the word 'hallway'.
+el jardín,"yard, garden",Esta es una frase con la palabra 'el jardín'.,"This is a sentence with the word 'yard, garden'."
+el garaje,garage,Esta es una frase con la palabra 'el garaje'.,This is a sentence with the word 'garage'.
+cómodo/a,comfortable,Esta es una frase con la palabra 'cómodo/a'.,This is a sentence with the word 'comfortable'.
+acogedor,cozy,Esta es una frase con la palabra 'acogedor'.,This is a sentence with the word 'cozy'.
+desordenado/a,messy,Esta es una frase con la palabra 'desordenado/a'.,This is a sentence with the word 'messy'.
+limpio/a,clean,Esta es una frase con la palabra 'limpio/a'.,This is a sentence with the word 'clean'.
+la pasta de dientes,toothpaste,Esta es una frase con la palabra 'la pasta de dientes'.,This is a sentence with the word 'toothpaste'.
+el cepillo de dientes,toothbrush,Esta es una frase con la palabra 'el cepillo de dientes'.,This is a sentence with the word 'toothbrush'.
+el jabón,soap,Esta es una frase con la palabra 'el jabón'.,This is a sentence with the word 'soap'.
+el secador de pelo,hair dryer,Esta es una frase con la palabra 'el secador de pelo'.,This is a sentence with the word 'hair dryer'.
+el champú,shampoo,Esta es una frase con la palabra 'el champú'.,This is a sentence with the word 'shampoo'.
+el cepillo,brush,Esta es una frase con la palabra 'el cepillo'.,This is a sentence with the word 'brush'.
+el papel higiénico,toilet paper,Esta es una frase con la palabra 'el papel higiénico'.,This is a sentence with the word 'toilet paper'.
+la toalla,towel,Esta es una frase con la palabra 'la toalla'.,This is a sentence with the word 'towel'.
+el agua jabonosa,soapy water,Esta es una frase con la palabra 'el agua jabonosa'.,This is a sentence with the word 'soapy water'.
+la bolsa de basura,trash bag,Esta es una frase con la palabra 'la bolsa de basura'.,This is a sentence with the word 'trash bag'.
+el cubo de basura,trash can,Esta es una frase con la palabra 'el cubo de basura'.,This is a sentence with the word 'trash can'.
+el cesto de la ropa sucia,laundry basket,Esta es una frase con la palabra 'el cesto de la ropa sucia'.,This is a sentence with the word 'laundry basket'.
+la navaja de afeitar,razor,Esta es una frase con la palabra 'la navaja de afeitar'.,This is a sentence with the word 'razor'.
+la maquinilla de afeitar eléctrica,electric razor,Esta es una frase con la palabra 'la maquinilla de afeitar eléctrica'.,This is a sentence with the word 'electric razor'.
+la crema de afeitar,shaving cream,Esta es una frase con la palabra 'la crema de afeitar'.,This is a sentence with the word 'shaving cream'.
+el enjuague bucal,mouthwash,Esta es una frase con la palabra 'el enjuague bucal'.,This is a sentence with the word 'mouthwash'.
+el cepillo de pelo,hair brush,Esta es una frase con la palabra 'el cepillo de pelo'.,This is a sentence with the word 'hair brush'.
+el peine,comb,Esta es una frase con la palabra 'el peine'.,This is a sentence with the word 'comb'.
+el limpiador facial,facial cleanser,Esta es una frase con la palabra 'el limpiador facial'.,This is a sentence with the word 'facial cleanser'.
+la balanza,scale,Esta es una frase con la palabra 'la balanza'.,This is a sentence with the word 'scale'.
+el pañuelo de papel,tissue,Esta es una frase con la palabra 'el pañuelo de papel'.,This is a sentence with the word 'tissue'.
+los juguetes de baño,bath toys,Esta es una frase con la palabra 'los juguetes de baño'.,This is a sentence with the word 'bath toys'.
+la alfombra de baño,bath mat,Esta es una frase con la palabra 'la alfombra de baño'.,This is a sentence with the word 'bath mat'.
+la ducha,shower,Esta es una frase con la palabra 'la ducha'.,This is a sentence with the word 'shower'.
+la bañera,bathtub,Esta es una frase con la palabra 'la bañera'.,This is a sentence with the word 'bathtub'.
+el fregadero,sink,Esta es una frase con la palabra 'el fregadero'.,This is a sentence with the word 'sink'.
+el inodoro,toilet,Esta es una frase con la palabra 'el inodoro'.,This is a sentence with the word 'toilet'.
+el grifo,faucet,Esta es una frase con la palabra 'el grifo'.,This is a sentence with the word 'faucet'.
+el espejo,mirror,Esta es una frase con la palabra 'el espejo'.,This is a sentence with the word 'mirror'.
+peinar,to comb,Esta es una frase con la palabra 'peinar'.,This is a sentence with the word 'to comb'.
+cocinar,to cook,Esta es una frase con la palabra 'cocinar'.,This is a sentence with the word 'to cook'.
+comer,to eat,Esta es una frase con la palabra 'comer'.,This is a sentence with the word 'to eat'.
+adobar,to marinate,Esta es una frase con la palabra 'adobar'.,This is a sentence with the word 'to marinate'.
+sazonar,to season,Esta es una frase con la palabra 'sazonar'.,This is a sentence with the word 'to season'.
+lavar,to wash,Esta es una frase con la palabra 'lavar'.,This is a sentence with the word 'to wash'.
+cortar,to cut,Esta es una frase con la palabra 'cortar'.,This is a sentence with the word 'to cut'.
+pelar,to peel,Esta es una frase con la palabra 'pelar'.,This is a sentence with the word 'to peel'.
+picar,to chop,Esta es una frase con la palabra 'picar'.,This is a sentence with the word 'to chop'.
+moler,to grind,Esta es una frase con la palabra 'moler'.,This is a sentence with the word 'to grind'.
+incorporar,to add,Esta es una frase con la palabra 'incorporar'.,This is a sentence with the word 'to add'.
+mezclar,to mix,Esta es una frase con la palabra 'mezclar'.,This is a sentence with the word 'to mix'.
+catir,to whisk,Esta es una frase con la palabra 'catir'.,This is a sentence with the word 'to whisk'.
+licuar,to blend,Esta es una frase con la palabra 'licuar'.,This is a sentence with the word 'to blend'.
+combinar,to combine,Esta es una frase con la palabra 'combinar'.,This is a sentence with the word 'to combine'.
+freír,to fry,Esta es una frase con la palabra 'freír'.,This is a sentence with the word 'to fry'.
+hervir,to boil,Esta es una frase con la palabra 'hervir'.,This is a sentence with the word 'to boil'.
+colar,to strain,Esta es una frase con la palabra 'colar'.,This is a sentence with the word 'to strain'.
+cocer,to cook,Esta es una frase con la palabra 'cocer'.,This is a sentence with the word 'to cook'.
+hornear,to bake,Esta es una frase con la palabra 'hornear'.,This is a sentence with the word 'to bake'.
+asar,to grill / roast,Esta es una frase con la palabra 'asar'.,This is a sentence with the word 'to grill / roast'.
+saltear,to saute,Esta es una frase con la palabra 'saltear'.,This is a sentence with the word 'to saute'.
+preparar,to prepare,Esta es una frase con la palabra 'preparar'.,This is a sentence with the word 'to prepare'.
+descongelar,to defrost,Esta es una frase con la palabra 'descongelar'.,This is a sentence with the word 'to defrost'.
+quemar,to burn,Esta es una frase con la palabra 'quemar'.,This is a sentence with the word 'to burn'.
+tostar,to toast,Esta es una frase con la palabra 'tostar'.,This is a sentence with the word 'to toast'.
+derretir,to melt,Esta es una frase con la palabra 'derretir'.,This is a sentence with the word 'to melt'.
+rodajear,to slice,Esta es una frase con la palabra 'rodajear'.,This is a sentence with the word 'to slice'.
+calentar,to warm up / heat,Esta es una frase con la palabra 'calentar'.,This is a sentence with the word 'to warm up / heat'.
+rellenar,to fill / stuff,Esta es una frase con la palabra 'rellenar'.,This is a sentence with the word 'to fill / stuff'.
+lavar,to wash,Esta es una frase con la palabra 'lavar'.,This is a sentence with the word 'to wash'.
+limpiar,to clean,Esta es una frase con la palabra 'limpiar'.,This is a sentence with the word 'to clean'.
+desayunar,to have breakfast,Esta es una frase con la palabra 'desayunar'.,This is a sentence with the word 'to have breakfast'.
+cenar,to have dinner,Esta es una frase con la palabra 'cenar'.,This is a sentence with the word 'to have dinner'.
+la puerta,the door,Esta es una frase con la palabra 'la puerta'.,This is a sentence with the word 'the door'.
+el armario,the wardrobe,Esta es una frase con la palabra 'el armario'.,This is a sentence with the word 'the wardrobe'.
+la estantería,the shelf,Esta es una frase con la palabra 'la estantería'.,This is a sentence with the word 'the shelf'.
+la ventana,the window,Esta es una frase con la palabra 'la ventana'.,This is a sentence with the word 'the window'.
+las cortinas,the curtains,Esta es una frase con la palabra 'las cortinas'.,This is a sentence with the word 'the curtains'.
+el escritorio,the desk,Esta es una frase con la palabra 'el escritorio'.,This is a sentence with the word 'the desk'.
+el ordenador,the computer,Esta es una frase con la palabra 'el ordenador'.,This is a sentence with the word 'the computer'.
+la cama,the bed,Esta es una frase con la palabra 'la cama'.,This is a sentence with the word 'the bed'.
+el cojín,the pillow,Esta es una frase con la palabra 'el cojín'.,This is a sentence with the word 'the pillow'.
+el edredón,the quilt,Esta es una frase con la palabra 'el edredón'.,This is a sentence with the word 'the quilt'.
+las sábanas,the bedding,Esta es una frase con la palabra 'las sábanas'.,This is a sentence with the word 'the bedding'.
+la almohada,the pillowcase,Esta es una frase con la palabra 'la almohada'.,This is a sentence with the word 'the pillowcase'.
+la lámpara,the lamp,Esta es una frase con la palabra 'la lámpara'.,This is a sentence with the word 'the lamp'.
+la mesilla de noche,the night table or nightstand,Esta es una frase con la palabra 'la mesilla de noche'.,This is a sentence with the word 'the night table or nightstand'.
+el espejo,the mirror,Esta es una frase con la palabra 'el espejo'.,This is a sentence with the word 'the mirror'.
+el cuadro,the painting,Esta es una frase con la palabra 'el cuadro'.,This is a sentence with the word 'the painting'.
+la puerta,the door,Esta es una frase con la palabra 'la puerta'.,This is a sentence with the word 'the door'.
+el armario,the wardrobe,Esta es una frase con la palabra 'el armario'.,This is a sentence with the word 'the wardrobe'.
+la estantería,the shelf,Esta es una frase con la palabra 'la estantería'.,This is a sentence with the word 'the shelf'.
+la ventana,the window,Esta es una frase con la palabra 'la ventana'.,This is a sentence with the word 'the window'.
+las cortinas,the curtains,Esta es una frase con la palabra 'las cortinas'.,This is a sentence with the word 'the curtains'.
+la mesa,the table,Esta es una frase con la palabra 'la mesa'.,This is a sentence with the word 'the table'.
+la silla,the chair,Esta es una frase con la palabra 'la silla'.,This is a sentence with the word 'the chair'.
+el sillón,armchair,Esta es una frase con la palabra 'el sillón'.,This is a sentence with the word 'armchair'.
+la alfombra,the carpet or rug,Esta es una frase con la palabra 'la alfombra'.,This is a sentence with the word 'the carpet or rug'.
+la lámpara,the lamp,Esta es una frase con la palabra 'la lámpara'.,This is a sentence with the word 'the lamp'.
+la planta,the plant,Esta es una frase con la palabra 'la planta'.,This is a sentence with the word 'the plant'.
+las flores,the flowers,Esta es una frase con la palabra 'las flores'.,This is a sentence with the word 'the flowers'.
+la chimenea,the chimney,Esta es una frase con la palabra 'la chimenea'.,This is a sentence with the word 'the chimney'.
+el suelo,the ground,Esta es una frase con la palabra 'el suelo'.,This is a sentence with the word 'the ground'.
+el techo,the ceiling,Esta es una frase con la palabra 'el techo'.,This is a sentence with the word 'the ceiling'.
+dependiente/a,shop assistant,Esta es una frase con la palabra 'dependiente/a'.,This is a sentence with the word 'shop assistant'.
+caja,checkout,Esta es una frase con la palabra 'caja'.,This is a sentence with the word 'checkout'.
+rebajas,sales,Esta es una frase con la palabra 'rebajas'.,This is a sentence with the word 'sales'.
+ocasión,bargain,Esta es una frase con la palabra 'ocasión'.,This is a sentence with the word 'bargain'.
+recibo,receipt,Esta es una frase con la palabra 'recibo'.,This is a sentence with the word 'receipt'.
+probadores,dressing room,Esta es una frase con la palabra 'probadores'.,This is a sentence with the word 'dressing room'.
+tamaño,size,Esta es una frase con la palabra 'tamaño'.,This is a sentence with the word 'size'.
+tienda de ropa,clothing store,Esta es una frase con la palabra 'tienda de ropa'.,This is a sentence with the word 'clothing store'.
+zapatería,shoe store,Esta es una frase con la palabra 'zapatería'.,This is a sentence with the word 'shoe store'.
+librería,bookstore,Esta es una frase con la palabra 'librería'.,This is a sentence with the word 'bookstore'.
+almacén,department store,Esta es una frase con la palabra 'almacén'.,This is a sentence with the word 'department store'.
+supermercado,supermarket,Esta es una frase con la palabra 'supermercado'.,This is a sentence with the word 'supermarket'.
+joyería,jeweler,Esta es una frase con la palabra 'joyería'.,This is a sentence with the word 'jeweler'.
+juguetería,toy store,Esta es una frase con la palabra 'juguetería'.,This is a sentence with the word 'toy store'.
+almacenero(a),grocer,Esta es una frase con la palabra 'almacenero(a)'.,This is a sentence with the word 'grocer'.
+comerciante (a),merchant,Esta es una frase con la palabra 'comerciante (a)'.,This is a sentence with the word 'merchant'.
+tendero(a),shopkeeper,Esta es una frase con la palabra 'tendero(a)'.,This is a sentence with the word 'shopkeeper'.
+dependiente,clerk,Esta es una frase con la palabra 'dependiente'.,This is a sentence with the word 'clerk'.
+cajero(a),cashier,Esta es una frase con la palabra 'cajero(a)'.,This is a sentence with the word 'cashier'.
+los cuidados de la salud,healthcare,Esta es una frase con la palabra 'los cuidados de la salud'.,This is a sentence with the word 'healthcare'.
+el dentista,dentist,Esta es una frase con la palabra 'el dentista'.,This is a sentence with the word 'dentist'.
+el doctor/a,doctor,Esta es una frase con la palabra 'el doctor/a'.,This is a sentence with the word 'doctor'.
+el enfermero/a,nurse,Esta es una frase con la palabra 'el enfermero/a'.,This is a sentence with the word 'nurse'.
+el médico general,general practitioner,Esta es una frase con la palabra 'el médico general'.,This is a sentence with the word 'general practitioner'.
+el médico de cabecera,general practitioner,Esta es una frase con la palabra 'el médico de cabecera'.,This is a sentence with the word 'general practitioner'.
+el médico especialista,specialist,Esta es una frase con la palabra 'el médico especialista'.,This is a sentence with the word 'specialist'.
+el/la nutricionista,nutritionist,Esta es una frase con la palabra 'el/la nutricionista'.,This is a sentence with the word 'nutritionist'.
+el/la paciente,patient,Esta es una frase con la palabra 'el/la paciente'.,This is a sentence with the word 'patient'.
+el/la paramédico,paramedic,Esta es una frase con la palabra 'el/la paramédico'.,This is a sentence with the word 'paramedic'.
+quiropráctico(a),chiropractor,Esta es una frase con la palabra 'quiropráctico(a)'.,This is a sentence with the word 'chiropractor'.
+el/la pediatra,pediatrician,Esta es una frase con la palabra 'el/la pediatra'.,This is a sentence with the word 'pediatrician'.
+el psicólogo/a,psychologist,Esta es una frase con la palabra 'el psicólogo/a'.,This is a sentence with the word 'psychologist'.
+los primeros auxilios,first aid,Esta es una frase con la palabra 'los primeros auxilios'.,This is a sentence with the word 'first aid'.
+la salud,health,Esta es una frase con la palabra 'la salud'.,This is a sentence with the word 'health'.
+la ambulancia,ambulance,Esta es una frase con la palabra 'la ambulancia'.,This is a sentence with the word 'ambulance'.
+la aseguradora,insurance carrier,Esta es una frase con la palabra 'la aseguradora'.,This is a sentence with the word 'insurance carrier'.
+el centro de salud,clinic,Esta es una frase con la palabra 'el centro de salud'.,This is a sentence with the word 'clinic'.
+la clínica,clinic,Esta es una frase con la palabra 'la clínica'.,This is a sentence with the word 'clinic'.
+la farmacia,drug store,Esta es una frase con la palabra 'la farmacia'.,This is a sentence with the word 'drug store'.
+droguería,drug store,Esta es una frase con la palabra 'droguería'.,This is a sentence with the word 'drug store'.
+el hospital,hospital,Esta es una frase con la palabra 'el hospital'.,This is a sentence with the word 'hospital'.
+el pabellón,ward,Esta es una frase con la palabra 'el pabellón'.,This is a sentence with the word 'ward'.
+la sala de espera,waiting room,Esta es una frase con la palabra 'la sala de espera'.,This is a sentence with the word 'waiting room'.
+la sala de operaciones,operating room,Esta es una frase con la palabra 'la sala de operaciones'.,This is a sentence with the word 'operating room'.
+el sanatorio,sanatorium,Esta es una frase con la palabra 'el sanatorio'.,This is a sentence with the word 'sanatorium'.
+la alergía,allergy,Esta es una frase con la palabra 'la alergía'.,This is a sentence with the word 'allergy'.
+la asfixia,suffocation,Esta es una frase con la palabra 'la asfixia'.,This is a sentence with the word 'suffocation'.
+el asma,asthma,Esta es una frase con la palabra 'el asma'.,This is a sentence with the word 'asthma'.
+el ataque al corazón/paro cardiaco,heart attack,Esta es una frase con la palabra 'el ataque al corazón/paro cardiaco'.,This is a sentence with the word 'heart attack'.
+el calambre,muscle cramp,Esta es una frase con la palabra 'el calambre'.,This is a sentence with the word 'muscle cramp'.
+el cancer,cancer,Esta es una frase con la palabra 'el cancer'.,This is a sentence with the word 'cancer'.
+el chinchón,head bump,Esta es una frase con la palabra 'el chinchón'.,This is a sentence with the word 'head bump'.
+el corte,cut,Esta es una frase con la palabra 'el corte'.,This is a sentence with the word 'cut'.
+la deshidratación,dehydration,Esta es una frase con la palabra 'la deshidratación'.,This is a sentence with the word 'dehydration'.
+la diabetes,diabetes,Esta es una frase con la palabra 'la diabetes'.,This is a sentence with the word 'diabetes'.
+la diarrea,diarrhea,Esta es una frase con la palabra 'la diarrea'.,This is a sentence with the word 'diarrhea'.
+el dolor,ache/pain,Esta es una frase con la palabra 'el dolor'.,This is a sentence with the word 'ache/pain'.
+el dolor de cabeza,headache,Esta es una frase con la palabra 'el dolor de cabeza'.,This is a sentence with the word 'headache'.
+el dolor de garganta,sore throat,Esta es una frase con la palabra 'el dolor de garganta'.,This is a sentence with the word 'sore throat'.
+el dolor de estómago,stomach ache,Esta es una frase con la palabra 'el dolor de estómago'.,This is a sentence with the word 'stomach ache'.
+el dolor de diente,toothache,Esta es una frase con la palabra 'el dolor de diente'.,This is a sentence with the word 'toothache'.
+la enfermedad,disease,Esta es una frase con la palabra 'la enfermedad'.,This is a sentence with the word 'disease'.
+la enfermedad cardiaca,heart disease,Esta es una frase con la palabra 'la enfermedad cardiaca'.,This is a sentence with the word 'heart disease'.
+la enfermedad infecciosa,infectious disease,Esta es una frase con la palabra 'la enfermedad infecciosa'.,This is a sentence with the word 'infectious disease'.
+los escalofríos,shaking chills,Esta es una frase con la palabra 'los escalofríos'.,This is a sentence with the word 'shaking chills'.
+la fractura,fracture,Esta es una frase con la palabra 'la fractura'.,This is a sentence with the word 'fracture'.
+la fiebre,fever,Esta es una frase con la palabra 'la fiebre'.,This is a sentence with the word 'fever'.
+la gripe,flu,Esta es una frase con la palabra 'la gripe'.,This is a sentence with the word 'flu'.
+la herida,wound,Esta es una frase con la palabra 'la herida'.,This is a sentence with the word 'wound'.
+la hipotermia,hypothermia,Esta es una frase con la palabra 'la hipotermia'.,This is a sentence with the word 'hypothermia'.
+la infección,infection,Esta es una frase con la palabra 'la infección'.,This is a sentence with the word 'infection'.
+el malestar,discomfort,Esta es una frase con la palabra 'el malestar'.,This is a sentence with the word 'discomfort'.
+el morete/moretón,bruise,Esta es una frase con la palabra 'el morete/moretón'.,This is a sentence with the word 'bruise'.
+la náusea,nausea,Esta es una frase con la palabra 'la náusea'.,This is a sentence with the word 'nausea'.
+el raspón,graze,Esta es una frase con la palabra 'el raspón'.,This is a sentence with the word 'graze'.
+el resfriado,cold,Esta es una frase con la palabra 'el resfriado'.,This is a sentence with the word 'cold'.
+el sangrado,bleeding,Esta es una frase con la palabra 'el sangrado'.,This is a sentence with the word 'bleeding'.
+la tos,cough,Esta es una frase con la palabra 'la tos'.,This is a sentence with the word 'cough'.
+el virus,virus,Esta es una frase con la palabra 'el virus'.,This is a sentence with the word 'virus'.
+el vomito,vomit,Esta es una frase con la palabra 'el vomito'.,This is a sentence with the word 'vomit'.
